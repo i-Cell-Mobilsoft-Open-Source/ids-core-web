@@ -108,6 +108,10 @@
           "default": {
             "value": "{base.color.Slate.50}",
             "type": "color"
+          },
+          "lighter-30": {
+            "value": "{base.color.light}",
+            "type": "color"
           }
         }
       },

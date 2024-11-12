@@ -288,6 +288,12 @@
                   "value": "{smc.colors.surface.fixed.darker-90}",
                   "type": "color"
                 }
+              },
+              "variant": {
+                "lighter-30": {
+                  "value": "{smc.colors.surface.variant.lighter-30}",
+                  "type": "color"
+                }
               }
             },
             "primary": {
