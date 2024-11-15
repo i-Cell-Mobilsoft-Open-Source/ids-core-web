@@ -4478,6 +4478,78 @@
             }
           }
         }
+      },
+      "label": {
+        "color": {
+          "fg": {
+            "surface": {
+              "default": {
+                "value": "{smc.reference.forms.color.fg.text.surface.default}",
+                "type": "color"
+              },
+              "hovered": {
+                "value": "{smc.reference.forms.color.fg.text.surface.hovered}",
+                "type": "color"
+              },
+              "focused": {
+                "value": "{smc.reference.forms.color.fg.text.surface.focused}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{smc.reference.forms.color.fg.text.surface.pressed}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{smc.reference.forms.color.fg.text.surface.disabled}",
+                "type": "color"
+              }
+            },
+            "light": {
+              "default": {
+                "value": "{smc.reference.forms.color.fg.text.light.default}",
+                "type": "color"
+              },
+              "hovered": {
+                "value": "{smc.reference.forms.color.fg.text.light.hovered}",
+                "type": "color"
+              },
+              "focused": {
+                "value": "{smc.reference.forms.color.fg.text.light.focused}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{smc.reference.forms.color.fg.text.light.pressed}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{smc.reference.forms.color.fg.text.light.disabled}",
+                "type": "color"
+              }
+            },
+            "dark": {
+              "default": {
+                "value": "{smc.reference.forms.color.fg.text.dark.default}",
+                "type": "color"
+              },
+              "hovered": {
+                "value": "{smc.reference.forms.color.fg.text.dark.hovered}",
+                "type": "color"
+              },
+              "focused": {
+                "value": "{smc.reference.forms.color.fg.text.dark.focused}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{smc.reference.forms.color.fg.text.dark.pressed}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{smc.reference.forms.color.fg.text.dark.disabled}",
+                "type": "color"
+              }
+            }
+          }
+        }
       }
     }
   }
