@@ -2810,6 +2810,10 @@
               "value": "{base.dimension.320}",
               "type": "number"
             },
+            "36": {
+              "value": "{base.dimension.360}",
+              "type": "number"
+            },
             "40": {
               "value": "{base.dimension.400}",
               "type": "number"
@@ -2926,6 +2930,10 @@
             },
             "32": {
               "value": "{base.dimension.320}",
+              "type": "number"
+            },
+            "36": {
+              "value": "{base.dimension.360}",
               "type": "number"
             },
             "40": {
