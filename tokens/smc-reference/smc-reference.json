@@ -2586,7 +2586,7 @@
           "color": {
             "dark": {
               "default": {
-                "value": "{smc.reference.container.color.border.surface.darker-100}",
+                "value": "{smc.reference.container.color.border.primary.default}",
                 "type": "color"
               }
             },
