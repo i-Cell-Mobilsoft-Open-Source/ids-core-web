@@ -44,6 +44,12 @@
               "value": "{smc.reference.typography.line-height.72}",
               "type": "number"
             }
+          },
+          "font-family": {
+            "font-family-default": {
+              "value": "{smc.reference.typography.iconset.default}",
+              "type": "text"
+            }
           }
         }
       }
