@@ -9,9 +9,7 @@
     "id": "smc-reference-smc-reference",
     "name": "smc-reference",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "smc-reference/smc-reference": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:2002:26296",
     "$figmaModeId": "2002:56",
     "$figmaVariableReferences": {
@@ -1304,9 +1302,7 @@
     "id": "smc-reference-smc-reference",
     "name": "smc-reference",
     "group": "smc-reference",
-    "selectedTokenSets": {
-      "smc-reference/smc-reference": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "smc.reference.container.color.opacity.light.100": "362075157adda5d5a476cc7e9e421033e5c1cfe5",
@@ -2599,9 +2595,7 @@
     "id": "base-base",
     "name": "base",
     "group": "base",
-    "selectedTokenSets": {
-      "base/base": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "base.color.Custom.50": "b25cc615ae1bc2cbd0ab258f9e858ddd9d1f0718",
@@ -3028,9 +3022,7 @@
     "id": "smc-colors-light",
     "name": "light",
     "group": "smc-colors",
-    "selectedTokenSets": {
-      "smc-colors/light": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "smc.colors.surface.lighter-10": "6e8f098ea8159452f09e20bf214b24d5c55c8e9f",
@@ -3623,7 +3615,6 @@
     "name": "small",
     "group": "smc-layout",
     "selectedTokenSets": {
-      "smc-reference/smc-reference": "source",
       "smc-layout/small": "enabled"
     },
     "$figmaStyleReferences": {},
@@ -3657,7 +3648,6 @@
     "name": "medium",
     "group": "smc-layout",
     "selectedTokenSets": {
-      "smc-reference/smc-reference": "source",
       "smc-layout/medium": "enabled"
     },
     "$figmaStyleReferences": {},
@@ -3691,7 +3681,6 @@
     "name": "large",
     "group": "smc-layout",
     "selectedTokenSets": {
-      "smc-reference/smc-reference": "source",
       "smc-layout/large": "enabled"
     },
     "$figmaStyleReferences": {},
@@ -3725,7 +3714,6 @@
     "name": "xlarge",
     "group": "smc-layout",
     "selectedTokenSets": {
-      "smc-reference/smc-reference": "enabled",
       "smc-layout/xlarge": "enabled"
     },
     "$figmaStyleReferences": {},
@@ -3757,7 +3745,6 @@
   {
     "id": "comp-size-compact",
     "name": "compact",
-    "group": "comp-size",
     "selectedTokenSets": {
       "comp-size/compact": "enabled"
     },
@@ -3771,15 +3758,17 @@
       "comp.size.icon.size.bigCollection.width": "07004351ac3819e6800570ebb29fe4b6d40b26db",
       "comp.size.icon.typography.bigCollection.font-size": "7ece18c7d90cfda996b7bfa736633e48b2db7a8d",
       "comp.size.icon.typography.bigCollection.line-height": "573f59fb987973e8071a4eebed00c39cb2839213",
-      "comp.size.icon.typography.font-family.font-family-default": "29de93fc6599d4782522ab49664d81fa385fbff2"
+      "comp.size.icon.typography.font-family.font-family-default": "29de93fc6599d4782522ab49664d81fa385fbff2",
+      "comp.size.icon.typography.font-family.font-family-idsBase": "3ba2c6a906d1ad785c0aae10ccbf7948dce4807e",
+      "comp.size.icon.typography.font-family.font-family-unique": "eed2fa856ff66ca826a37ffc83b11efd6a0580ad"
     },
     "$figmaModeId": "2002:58",
-    "$figmaCollectionId": "VariableCollectionId:2002:28942"
+    "$figmaCollectionId": "VariableCollectionId:2002:28942",
+    "group": "comp-size"
   },
   {
     "id": "comp-size-comfortable",
     "name": "comfortable",
-    "group": "comp-size",
     "selectedTokenSets": {
       "comp-size/comfortable": "enabled"
     },
@@ -3793,15 +3782,17 @@
       "comp.size.icon.size.bigCollection.width": "07004351ac3819e6800570ebb29fe4b6d40b26db",
       "comp.size.icon.typography.bigCollection.font-size": "7ece18c7d90cfda996b7bfa736633e48b2db7a8d",
       "comp.size.icon.typography.bigCollection.line-height": "573f59fb987973e8071a4eebed00c39cb2839213",
-      "comp.size.icon.typography.font-family.font-family-default": "29de93fc6599d4782522ab49664d81fa385fbff2"
+      "comp.size.icon.typography.font-family.font-family-default": "29de93fc6599d4782522ab49664d81fa385fbff2",
+      "comp.size.icon.typography.font-family.font-family-idsBase": "3ba2c6a906d1ad785c0aae10ccbf7948dce4807e",
+      "comp.size.icon.typography.font-family.font-family-unique": "eed2fa856ff66ca826a37ffc83b11efd6a0580ad"
     },
     "$figmaModeId": "2002:59",
-    "$figmaCollectionId": "VariableCollectionId:2002:28942"
+    "$figmaCollectionId": "VariableCollectionId:2002:28942",
+    "group": "comp-size"
   },
   {
     "id": "comp-size-spacious",
     "name": "spacious",
-    "group": "comp-size",
     "selectedTokenSets": {
       "comp-size/spacious": "enabled"
     },
@@ -3815,15 +3806,17 @@
       "comp.size.icon.size.bigCollection.width": "07004351ac3819e6800570ebb29fe4b6d40b26db",
       "comp.size.icon.typography.bigCollection.font-size": "7ece18c7d90cfda996b7bfa736633e48b2db7a8d",
       "comp.size.icon.typography.bigCollection.line-height": "573f59fb987973e8071a4eebed00c39cb2839213",
-      "comp.size.icon.typography.font-family.font-family-default": "29de93fc6599d4782522ab49664d81fa385fbff2"
+      "comp.size.icon.typography.font-family.font-family-default": "29de93fc6599d4782522ab49664d81fa385fbff2",
+      "comp.size.icon.typography.font-family.font-family-idsBase": "3ba2c6a906d1ad785c0aae10ccbf7948dce4807e",
+      "comp.size.icon.typography.font-family.font-family-unique": "eed2fa856ff66ca826a37ffc83b11efd6a0580ad"
     },
     "$figmaModeId": "2002:60",
-    "$figmaCollectionId": "VariableCollectionId:2002:28942"
+    "$figmaCollectionId": "VariableCollectionId:2002:28942",
+    "group": "comp-size"
   },
   {
     "id": "comp-size-dense",
     "name": "dense",
-    "group": "comp-size",
     "selectedTokenSets": {
       "comp-size/dense": "enabled"
     },
@@ -3837,9 +3830,12 @@
       "comp.size.icon.size.bigCollection.width": "07004351ac3819e6800570ebb29fe4b6d40b26db",
       "comp.size.icon.typography.bigCollection.font-size": "7ece18c7d90cfda996b7bfa736633e48b2db7a8d",
       "comp.size.icon.typography.bigCollection.line-height": "573f59fb987973e8071a4eebed00c39cb2839213",
-      "comp.size.icon.typography.font-family.font-family-default": "29de93fc6599d4782522ab49664d81fa385fbff2"
+      "comp.size.icon.typography.font-family.font-family-default": "29de93fc6599d4782522ab49664d81fa385fbff2",
+      "comp.size.icon.typography.font-family.font-family-idsBase": "3ba2c6a906d1ad785c0aae10ccbf7948dce4807e",
+      "comp.size.icon.typography.font-family.font-family-unique": "eed2fa856ff66ca826a37ffc83b11efd6a0580ad"
     },
     "$figmaModeId": "4458:0",
-    "$figmaCollectionId": "VariableCollectionId:2002:28942"
+    "$figmaCollectionId": "VariableCollectionId:2002:28942",
+    "group": "comp-size"
   }
 ]

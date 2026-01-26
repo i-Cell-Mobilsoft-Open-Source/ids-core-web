@@ -49,6 +49,14 @@
             "font-family-default": {
               "value": "{smc.reference.typography.iconset.default}",
               "type": "text"
+            },
+            "font-family-idsBase": {
+              "value": "{smc.reference.typography.iconset.idsBase}",
+              "type": "text"
+            },
+            "font-family-unique": {
+              "value": "{smc.reference.typography.iconset.unique}",
+              "type": "text"
             }
           }
         }
