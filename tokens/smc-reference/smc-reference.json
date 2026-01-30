@@ -4659,8 +4659,12 @@
             "value": "{base.typography.font-family.MaterialIcons}",
             "type": "text"
           },
-          "custom": {
-            "value": "{base.typography.font-family.MaterialIcons}",
+          "idsBase": {
+            "value": "{base.typography.font-family.IdsMaterialIcons}",
+            "type": "text"
+          },
+          "unique": {
+            "value": "{base.typography.font-family.IdsMateriaIIconsUnique}",
             "type": "text"
           }
         }
