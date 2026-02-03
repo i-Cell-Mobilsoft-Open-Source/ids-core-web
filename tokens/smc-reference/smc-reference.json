@@ -4659,7 +4659,7 @@
             "value": "{base.typography.font-family.MaterialIcons}",
             "type": "text"
           },
-          "idsBase": {
+          "idsbase": {
             "value": "{base.typography.font-family.IdsMaterialIcons}",
             "type": "text"
           },
