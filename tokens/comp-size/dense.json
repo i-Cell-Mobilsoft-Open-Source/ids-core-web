@@ -57,6 +57,10 @@
             "font-family-unique": {
               "value": "{smc.reference.typography.iconset.unique}",
               "type": "text"
+            },
+            "font-family-idsbase": {
+              "value": "{smc.reference.typography.iconset.idsBase}",
+              "type": "text"
             }
           }
         }
