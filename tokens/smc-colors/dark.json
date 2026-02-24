@@ -7,47 +7,47 @@
           "type": "color"
         },
         "default": {
-          "value": "{base.color.Slate.950}",
+          "value": "{base.color.Slate.2000}",
           "type": "color"
         },
         "darker-10": {
-          "value": "{base.color.Slate.900}",
+          "value": "{base.color.Slate.1500}",
           "type": "color"
         },
         "darker-20": {
-          "value": "{base.color.Slate.800}",
+          "value": "{base.color.Slate.1300}",
           "type": "color"
         },
         "darker-30": {
-          "value": "{base.color.Slate.700}",
+          "value": "{base.color.Slate.1200}",
           "type": "color"
         },
         "darker-40": {
-          "value": "{base.color.Slate.600}",
+          "value": "{base.color.Slate.1100}",
           "type": "color"
         },
         "darker-50": {
-          "value": "{base.color.Slate.400}",
+          "value": "{base.color.Slate.900}",
           "type": "color"
         },
         "darker-60": {
-          "value": "{base.color.Slate.300}",
+          "value": "{base.color.Slate.800}",
           "type": "color"
         },
         "darker-70": {
-          "value": "{base.color.Slate.200}",
+          "value": "{base.color.Slate.700}",
           "type": "color"
         },
         "darker-80": {
-          "value": "{base.color.Slate.100}",
+          "value": "{base.color.Slate.600}",
           "type": "color"
         },
         "darker-90": {
-          "value": "{base.color.Slate.100}",
+          "value": "{base.color.Slate.500}",
           "type": "color"
         },
         "darker-95": {
-          "value": "{base.color.Slate.50}",
+          "value": "{base.color.Slate.100}",
           "type": "color"
         },
         "darker-100": {
@@ -60,116 +60,293 @@
             "type": "color"
           },
           "default": {
-            "value": "{base.color.Slate.50}",
-            "type": "color"
-          },
-          "darker-10": {
             "value": "{base.color.Slate.100}",
             "type": "color"
           },
-          "darker-20": {
-            "value": "{base.color.Slate.200}",
-            "type": "color"
-          },
-          "darker-30": {
-            "value": "{base.color.Slate.300}",
-            "type": "color"
-          },
-          "darker-40": {
-            "value": "{base.color.Slate.400}",
-            "type": "color"
-          },
-          "darker-50": {
-            "value": "{base.color.Slate.500}",
-            "type": "color"
-          },
-          "darker-60": {
+          "darker-10": {
             "value": "{base.color.Slate.600}",
             "type": "color"
           },
-          "darker-70": {
+          "darker-20": {
             "value": "{base.color.Slate.700}",
             "type": "color"
           },
-          "darker-80": {
+          "darker-30": {
             "value": "{base.color.Slate.800}",
             "type": "color"
           },
-          "darker-90": {
+          "darker-40": {
             "value": "{base.color.Slate.900}",
             "type": "color"
           },
+          "darker-50": {
+            "value": "{base.color.Slate.1000}",
+            "type": "color"
+          },
+          "darker-60": {
+            "value": "{base.color.Slate.1100}",
+            "type": "color"
+          },
+          "darker-70": {
+            "value": "{base.color.Slate.1200}",
+            "type": "color"
+          },
+          "darker-80": {
+            "value": "{base.color.Slate.1300}",
+            "type": "color"
+          },
+          "darker-90": {
+            "value": "{base.color.Slate.1400}",
+            "type": "color"
+          },
           "darker-95": {
-            "value": "{base.color.Slate.950}",
+            "value": "{base.color.Slate.1900}",
             "type": "color"
           },
           "darker-100": {
             "value": "{base.color.dark}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-2": {
+            "value": "{base.color.Slate.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-4": {
+            "value": "{base.color.Slate.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-6": {
+            "value": "{base.color.Slate.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-8": {
+            "value": "{base.color.Slate.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-91": {
+            "value": "{base.color.Slate.1500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-92": {
+            "value": "{base.color.Slate.1600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-93": {
+            "value": "{base.color.Slate.1700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-94": {
+            "value": "{base.color.Slate.1800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-96": {
+            "value": "{base.color.Slate.2000}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           }
         },
         "variant": {
           "default": {
-            "value": "{base.color.Slate.600}",
+            "value": "{base.color.Slate.1100}",
             "type": "color"
           },
           "lighter-30": {
-            "value": "{base.color.Slate.500}",
+            "value": "{base.color.Slate.1000}",
             "type": "color"
           },
           "lighter-40": {
-            "value": "{base.color.Slate.800}",
-            "type": "color"
+            "value": "{base.color.Slate.1300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-10": {
-            "value": "{base.color.Slate.800}",
-            "type": "color"
+            "value": "{base.color.Slate.1300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          }
+        },
+        "darker-2": {
+          "value": "{base.color.Slate.1900}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-4": {
+          "value": "{base.color.Slate.1800}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-6": {
+          "value": "{base.color.Slate.1700}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-8": {
+          "value": "{base.color.Slate.1600}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-91": {
+          "value": "{base.color.Slate.400}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-92": {
+          "value": "{base.color.Slate.300}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-93": {
+          "value": "{base.color.Slate.200}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-94": {
+          "value": "{base.color.Slate.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-96": {
+          "value": "{base.color.Slate.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
           }
         }
       },
       "primary": {
         "lighter-50": {
-          "value": "{base.color.Custom.950}",
+          "value": "{base.color.Custom.2000}",
           "type": "color"
         },
         "lighter-40": {
-          "value": "{base.color.Custom.900}",
+          "value": "{base.color.Custom.1400}",
           "type": "color"
         },
         "lighter-30": {
-          "value": "{base.color.Custom.800}",
+          "value": "{base.color.Custom.1300}",
           "type": "color"
         },
         "lighter-20": {
-          "value": "{base.color.Custom.700}",
+          "value": "{base.color.Custom.1200}",
           "type": "color"
         },
         "lighter-10": {
-          "value": "{base.color.Custom.600}",
+          "value": "{base.color.Custom.1100}",
           "type": "color"
         },
         "default": {
-          "value": "{base.color.Custom.400}",
+          "value": "{base.color.Custom.900}",
           "type": "color"
         },
         "darker-10": {
-          "value": "{base.color.Custom.300}",
+          "value": "{base.color.Custom.800}",
           "type": "color"
         },
         "darker-20": {
-          "value": "{base.color.Custom.200}",
+          "value": "{base.color.Custom.700}",
           "type": "color"
         },
         "darker-30": {
-          "value": "{base.color.Custom.100}",
+          "value": "{base.color.Custom.600}",
           "type": "color"
         },
         "darker-50": {
-          "value": "{base.color.Custom.50}",
+          "value": "{base.color.Custom.100}",
           "type": "color"
         },
         "darker-40": {
-          "value": "{base.color.Custom.100}",
+          "value": "{base.color.Custom.500}",
           "type": "color"
         },
         "variant": {
@@ -180,600 +357,1954 @@
         },
         "fixed": {
           "lighter-50": {
-            "value": "{base.color.Custom.50}",
-            "type": "color"
-          },
-          "lighter-40": {
             "value": "{base.color.Custom.100}",
             "type": "color"
           },
-          "lighter-30": {
-            "value": "{base.color.Custom.200}",
-            "type": "color"
-          },
-          "lighter-20": {
-            "value": "{base.color.Custom.300}",
-            "type": "color"
-          },
-          "lighter-10": {
-            "value": "{base.color.Custom.400}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{base.color.Custom.500}",
-            "type": "color"
-          },
-          "darker-10": {
+          "lighter-40": {
             "value": "{base.color.Custom.600}",
             "type": "color"
           },
-          "darker-20": {
+          "lighter-30": {
             "value": "{base.color.Custom.700}",
             "type": "color"
           },
-          "darker-30": {
+          "lighter-20": {
             "value": "{base.color.Custom.800}",
             "type": "color"
           },
-          "darker-40": {
+          "lighter-10": {
             "value": "{base.color.Custom.900}",
             "type": "color"
           },
-          "darker-50": {
-            "value": "{base.color.Custom.950}",
+          "default": {
+            "value": "{base.color.Custom.1000}",
             "type": "color"
+          },
+          "darker-10": {
+            "value": "{base.color.Custom.1100}",
+            "type": "color"
+          },
+          "darker-20": {
+            "value": "{base.color.Custom.1200}",
+            "type": "color"
+          },
+          "darker-30": {
+            "value": "{base.color.Custom.1300}",
+            "type": "color"
+          },
+          "darker-40": {
+            "value": "{base.color.Custom.1900}",
+            "type": "color"
+          },
+          "darker-50": {
+            "value": "{base.color.Custom.2000}",
+            "type": "color"
+          },
+          "lighter-48": {
+            "value": "{base.color.Custom.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-46": {
+            "value": "{base.color.Custom.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-44": {
+            "value": "{base.color.Custom.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-42": {
+            "value": "{base.color.Custom.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-31": {
+            "value": "{base.color.Custom.1400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-32": {
+            "value": "{base.color.Custom.1500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-33": {
+            "value": "{base.color.Custom.1600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-34": {
+            "value": "{base.color.Custom.1700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-35": {
+            "value": "{base.color.Custom.1800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          }
+        },
+        "lighter-48": {
+          "value": "{base.color.Custom.1900}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-46": {
+          "value": "{base.color.Custom.1800}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-44": {
+          "value": "{base.color.Custom.1700}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-42": {
+          "value": "{base.color.Custom.1600}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-31": {
+          "value": "{base.color.Custom.400}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-32": {
+          "value": "{base.color.Custom.300}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-33": {
+          "value": "{base.color.Custom.200}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-34": {
+          "value": "{base.color.Custom.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-35": {
+          "value": "{base.color.Custom.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
           }
         }
       },
       "secondary": {
         "lighter-40": {
-          "value": "{base.color.Slate.900}",
+          "value": "{base.color.Slate.1400}",
           "type": "color"
         },
         "lighter-30": {
-          "value": "{base.color.Slate.800}",
+          "value": "{base.color.Slate.1300}",
           "type": "color"
         },
         "lighter-20": {
-          "value": "{base.color.Slate.700}",
+          "value": "{base.color.Slate.1200}",
           "type": "color"
         },
         "lighter-10": {
-          "value": "{base.color.Slate.600}",
+          "value": "{base.color.Slate.1100}",
           "type": "color"
         },
         "default": {
-          "value": "{base.color.Slate.400}",
+          "value": "{base.color.Slate.900}",
           "type": "color"
         },
         "darker-10": {
-          "value": "{base.color.Slate.300}",
+          "value": "{base.color.Slate.800}",
           "type": "color"
         },
         "darker-20": {
-          "value": "{base.color.Slate.200}",
+          "value": "{base.color.Slate.700}",
           "type": "color"
         },
         "darker-30": {
-          "value": "{base.color.Slate.100}",
+          "value": "{base.color.Slate.600}",
           "type": "color"
         },
         "lighter-50": {
-          "value": "{base.color.Slate.950}",
+          "value": "{base.color.Slate.2000}",
           "type": "color"
         },
         "darker-40": {
-          "value": "{base.color.Slate.100}",
+          "value": "{base.color.Slate.500}",
           "type": "color"
         },
         "darker-50": {
-          "value": "{base.color.Slate.50}",
+          "value": "{base.color.Slate.100}",
           "type": "color"
         },
         "fixed": {
           "lighter-50": {
-            "value": "{base.color.Slate.50}",
-            "type": "color"
-          },
-          "lighter-40": {
             "value": "{base.color.Slate.100}",
             "type": "color"
           },
-          "lighter-30": {
-            "value": "{base.color.Slate.200}",
-            "type": "color"
-          },
-          "lighter-20": {
-            "value": "{base.color.Slate.300}",
-            "type": "color"
-          },
-          "lighter-10": {
-            "value": "{base.color.Slate.400}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{base.color.Slate.500}",
-            "type": "color"
-          },
-          "darker-10": {
+          "lighter-40": {
             "value": "{base.color.Slate.600}",
             "type": "color"
           },
-          "darker-20": {
+          "lighter-30": {
             "value": "{base.color.Slate.700}",
             "type": "color"
           },
-          "darker-30": {
+          "lighter-20": {
             "value": "{base.color.Slate.800}",
             "type": "color"
           },
-          "darker-40": {
+          "lighter-10": {
             "value": "{base.color.Slate.900}",
             "type": "color"
           },
-          "darker-50": {
-            "value": "{base.color.Slate.950}",
+          "default": {
+            "value": "{base.color.Slate.1000}",
             "type": "color"
+          },
+          "darker-10": {
+            "value": "{base.color.Slate.1100}",
+            "type": "color"
+          },
+          "darker-20": {
+            "value": "{base.color.Slate.1200}",
+            "type": "color"
+          },
+          "darker-30": {
+            "value": "{base.color.Slate.1300}",
+            "type": "color"
+          },
+          "darker-40": {
+            "value": "{base.color.Slate.1900}",
+            "type": "color"
+          },
+          "darker-50": {
+            "value": "{base.color.Slate.2000}",
+            "type": "color"
+          },
+          "lighter-48": {
+            "value": "{base.color.Slate.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-46": {
+            "value": "{base.color.Slate.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-44": {
+            "value": "{base.color.Slate.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-42": {
+            "value": "{base.color.Slate.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-31": {
+            "value": "{base.color.Slate.1400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-32": {
+            "value": "{base.color.Slate.1500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-33": {
+            "value": "{base.color.Slate.1600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-34": {
+            "value": "{base.color.Slate.1700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-35": {
+            "value": "{base.color.Slate.1800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          }
+        },
+        "lighter-48": {
+          "value": "{base.color.Slate.1900}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-46": {
+          "value": "{base.color.Slate.1800}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-44": {
+          "value": "{base.color.Slate.1700}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-42": {
+          "value": "{base.color.Slate.1600}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-31": {
+          "value": "{base.color.Slate.400}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-32": {
+          "value": "{base.color.Slate.300}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-33": {
+          "value": "{base.color.Slate.200}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-34": {
+          "value": "{base.color.Slate.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-35": {
+          "value": "{base.color.Slate.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
           }
         }
       },
       "brand": {
         "lighter-40": {
-          "value": "{base.color.Custom.900}",
+          "value": "{base.color.Custom.1400}",
           "type": "color"
         },
         "lighter-30": {
-          "value": "{base.color.Custom.800}",
+          "value": "{base.color.Custom.1300}",
           "type": "color"
         },
         "lighter-20": {
-          "value": "{base.color.Custom.700}",
+          "value": "{base.color.Custom.1200}",
           "type": "color"
         },
         "lighter-10": {
-          "value": "{base.color.Custom.600}",
+          "value": "{base.color.Custom.1100}",
           "type": "color"
         },
         "default": {
-          "value": "{base.color.Custom.400}",
+          "value": "{base.color.Custom.900}",
           "type": "color"
         },
         "darker-10": {
-          "value": "{base.color.Custom.300}",
+          "value": "{base.color.Custom.800}",
           "type": "color"
         },
         "darker-20": {
-          "value": "{base.color.Custom.200}",
+          "value": "{base.color.Custom.700}",
           "type": "color"
         },
         "darker-30": {
-          "value": "{base.color.Custom.100}",
+          "value": "{base.color.Custom.600}",
           "type": "color"
         },
         "lighter-50": {
-          "value": "{base.color.Custom.950}",
+          "value": "{base.color.Custom.2000}",
           "type": "color"
         },
         "darker-40": {
-          "value": "{base.color.Custom.100}",
+          "value": "{base.color.Custom.500}",
           "type": "color"
         },
         "darker-50": {
-          "value": "{base.color.Custom.50}",
+          "value": "{base.color.Custom.100}",
           "type": "color"
         },
         "fixed": {
           "lighter-50": {
-            "value": "{base.color.Custom.50}",
-            "type": "color"
-          },
-          "lighter-40": {
             "value": "{base.color.Custom.100}",
             "type": "color"
           },
-          "lighter-30": {
-            "value": "{base.color.Custom.200}",
-            "type": "color"
-          },
-          "lighter-20": {
-            "value": "{base.color.Custom.300}",
-            "type": "color"
-          },
-          "lighter-10": {
-            "value": "{base.color.Custom.400}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{base.color.Custom.500}",
-            "type": "color"
-          },
-          "darker-10": {
+          "lighter-40": {
             "value": "{base.color.Custom.600}",
             "type": "color"
           },
-          "darker-20": {
+          "lighter-30": {
             "value": "{base.color.Custom.700}",
             "type": "color"
           },
-          "darker-30": {
+          "lighter-20": {
             "value": "{base.color.Custom.800}",
             "type": "color"
           },
-          "darker-40": {
+          "lighter-10": {
             "value": "{base.color.Custom.900}",
             "type": "color"
           },
-          "darker-50": {
-            "value": "{base.color.Custom.950}",
+          "default": {
+            "value": "{base.color.Custom.1000}",
             "type": "color"
+          },
+          "darker-10": {
+            "value": "{base.color.Custom.1100}",
+            "type": "color"
+          },
+          "darker-20": {
+            "value": "{base.color.Custom.1200}",
+            "type": "color"
+          },
+          "darker-30": {
+            "value": "{base.color.Custom.1300}",
+            "type": "color"
+          },
+          "darker-40": {
+            "value": "{base.color.Custom.1900}",
+            "type": "color"
+          },
+          "darker-50": {
+            "value": "{base.color.Custom.2000}",
+            "type": "color"
+          },
+          "lighter-48": {
+            "value": "{base.color.Custom.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-46": {
+            "value": "{base.color.Custom.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-44": {
+            "value": "{base.color.Custom.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-42": {
+            "value": "{base.color.Custom.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-31": {
+            "value": "{base.color.Custom.1400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-32": {
+            "value": "{base.color.Custom.1500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-33": {
+            "value": "{base.color.Custom.1600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-34": {
+            "value": "{base.color.Custom.1700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-35": {
+            "value": "{base.color.Custom.1800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          }
+        },
+        "lighter-48": {
+          "value": "{base.color.Custom.1900}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-46": {
+          "value": "{base.color.Custom.1800}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-44": {
+          "value": "{base.color.Custom.1700}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-42": {
+          "value": "{base.color.Custom.1600}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-31": {
+          "value": "{base.color.Custom.400}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-32": {
+          "value": "{base.color.Custom.300}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-33": {
+          "value": "{base.color.Custom.200}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-34": {
+          "value": "{base.color.Custom.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-35": {
+          "value": "{base.color.Custom.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
           }
         }
       },
       "error": {
         "lighter-40": {
-          "value": "{base.color.Red.900}",
+          "value": "{base.color.Red.1400}",
           "type": "color"
         },
         "lighter-30": {
-          "value": "{base.color.Red.800}",
+          "value": "{base.color.Red.1300}",
           "type": "color"
         },
         "lighter-20": {
-          "value": "{base.color.Red.700}",
+          "value": "{base.color.Red.1200}",
           "type": "color"
         },
         "lighter-10": {
-          "value": "{base.color.Red.600}",
+          "value": "{base.color.Red.1100}",
           "type": "color"
         },
         "default": {
-          "value": "{base.color.Red.400}",
+          "value": "{base.color.Red.900}",
           "type": "color"
         },
         "darker-10": {
-          "value": "{base.color.Red.300}",
+          "value": "{base.color.Red.800}",
           "type": "color"
         },
         "darker-20": {
-          "value": "{base.color.Red.200}",
+          "value": "{base.color.Red.700}",
           "type": "color"
         },
         "darker-30": {
-          "value": "{base.color.Red.100}",
+          "value": "{base.color.Red.600}",
           "type": "color"
         },
         "lighter-50": {
-          "value": "{base.color.Red.950}",
+          "value": "{base.color.Red.2000}",
           "type": "color"
         },
         "darker-40": {
-          "value": "{base.color.Red.100}",
+          "value": "{base.color.Red.500}",
           "type": "color"
         },
         "darker-50": {
-          "value": "{base.color.Red.50}",
+          "value": "{base.color.Red.100}",
           "type": "color"
         },
         "fixed": {
           "lighter-50": {
-            "value": "{base.color.Red.50}",
-            "type": "color"
+            "value": "{base.color.Red.100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-40": {
-            "value": "{base.color.Red.100}",
-            "type": "color"
+            "value": "{base.color.Red.600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-50": {
-            "value": "{base.color.Red.950}",
-            "type": "color"
+            "value": "{base.color.Red.2000}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-30": {
-            "value": "{base.color.Red.200}",
-            "type": "color"
+            "value": "{base.color.Red.700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-20": {
-            "value": "{base.color.Red.300}",
-            "type": "color"
+            "value": "{base.color.Red.800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-10": {
-            "value": "{base.color.Red.400}",
-            "type": "color"
+            "value": "{base.color.Red.900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "default": {
-            "value": "{base.color.Red.500}",
-            "type": "color"
+            "value": "{base.color.Red.1000}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-10": {
-            "value": "{base.color.Red.600}",
-            "type": "color"
+            "value": "{base.color.Red.1100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-20": {
-            "value": "{base.color.Red.700}",
-            "type": "color"
+            "value": "{base.color.Red.1200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-30": {
-            "value": "{base.color.Red.800}",
-            "type": "color"
+            "value": "{base.color.Red.1300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-40": {
-            "value": "{base.color.Red.900}",
-            "type": "color"
+            "value": "{base.color.Red.1900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-48": {
+            "value": "{base.color.Red.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-46": {
+            "value": "{base.color.Red.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-44": {
+            "value": "{base.color.Red.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-42": {
+            "value": "{base.color.Red.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-31": {
+            "value": "{base.color.Red.1400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-32": {
+            "value": "{base.color.Red.1500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-33": {
+            "value": "{base.color.Red.1600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-34": {
+            "value": "{base.color.Red.1700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-35": {
+            "value": "{base.color.Red.1800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          }
+        },
+        "lighter-48": {
+          "value": "{base.color.Red.1900}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-46": {
+          "value": "{base.color.Red.1800}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-44": {
+          "value": "{base.color.Red.1700}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-42": {
+          "value": "{base.color.Red.1600}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-31": {
+          "value": "{base.color.Red.400}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-32": {
+          "value": "{base.color.Red.300}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-33": {
+          "value": "{base.color.Red.200}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-34": {
+          "value": "{base.color.Red.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-35": {
+          "value": "{base.color.Red.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
           }
         }
       },
       "success": {
         "lighter-50": {
-          "value": "{base.color.Green.950}",
+          "value": "{base.color.Green.2000}",
           "type": "color"
         },
         "lighter-30": {
-          "value": "{base.color.Green.800}",
+          "value": "{base.color.Green.1300}",
           "type": "color"
         },
         "lighter-20": {
-          "value": "{base.color.Green.700}",
+          "value": "{base.color.Green.1200}",
           "type": "color"
         },
         "lighter-10": {
-          "value": "{base.color.Green.600}",
+          "value": "{base.color.Green.1100}",
           "type": "color"
         },
         "default": {
-          "value": "{base.color.Green.400}",
-          "type": "color"
-        },
-        "darker-10": {
-          "value": "{base.color.Green.300}",
-          "type": "color"
-        },
-        "darker-20": {
-          "value": "{base.color.Green.200}",
-          "type": "color"
-        },
-        "darker-30": {
-          "value": "{base.color.Green.100}",
-          "type": "color"
-        },
-        "lighter-40": {
           "value": "{base.color.Green.900}",
           "type": "color"
         },
+        "darker-10": {
+          "value": "{base.color.Green.800}",
+          "type": "color"
+        },
+        "darker-20": {
+          "value": "{base.color.Green.700}",
+          "type": "color"
+        },
+        "darker-30": {
+          "value": "{base.color.Green.600}",
+          "type": "color"
+        },
+        "lighter-40": {
+          "value": "{base.color.Green.1400}",
+          "type": "color"
+        },
         "darker-40": {
-          "value": "{base.color.Green.100}",
+          "value": "{base.color.Green.500}",
           "type": "color"
         },
         "darker-50": {
-          "value": "{base.color.Green.50}",
+          "value": "{base.color.Green.100}",
           "type": "color"
         },
         "fixed": {
           "lighter-50": {
-            "value": "{base.color.Green.50}",
-            "type": "color"
+            "value": "{base.color.Green.100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-40": {
-            "value": "{base.color.Green.100}",
-            "type": "color"
+            "value": "{base.color.Green.600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-50": {
-            "value": "{base.color.Green.950}",
-            "type": "color"
+            "value": "{base.color.Green.2000}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-30": {
-            "value": "{base.color.Green.200}",
-            "type": "color"
+            "value": "{base.color.Green.700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-20": {
-            "value": "{base.color.Green.300}",
-            "type": "color"
+            "value": "{base.color.Green.800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-10": {
-            "value": "{base.color.Green.400}",
-            "type": "color"
+            "value": "{base.color.Green.900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "default": {
-            "value": "{base.color.Green.500}",
-            "type": "color"
+            "value": "{base.color.Green.1000}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-10": {
-            "value": "{base.color.Green.600}",
-            "type": "color"
+            "value": "{base.color.Green.1100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-20": {
-            "value": "{base.color.Green.700}",
-            "type": "color"
+            "value": "{base.color.Green.1200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-30": {
-            "value": "{base.color.Green.800}",
-            "type": "color"
+            "value": "{base.color.Green.1300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-40": {
-            "value": "{base.color.Green.900}",
-            "type": "color"
+            "value": "{base.color.Green.1900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-48": {
+            "value": "{base.color.Green.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-46": {
+            "value": "{base.color.Green.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-44": {
+            "value": "{base.color.Green.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-42": {
+            "value": "{base.color.Green.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-31": {
+            "value": "{base.color.Green.1400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-32": {
+            "value": "{base.color.Green.1500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-33": {
+            "value": "{base.color.Green.1600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-34": {
+            "value": "{base.color.Green.1700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-35": {
+            "value": "{base.color.Green.1800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          }
+        },
+        "lighter-48": {
+          "value": "{base.color.Green.1900}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-46": {
+          "value": "{base.color.Green.1800}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-44": {
+          "value": "{base.color.Green.1700}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-42": {
+          "value": "{base.color.Green.1600}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-31": {
+          "value": "{base.color.Green.400}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-32": {
+          "value": "{base.color.Green.300}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-33": {
+          "value": "{base.color.Green.200}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-34": {
+          "value": "{base.color.Green.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-35": {
+          "value": "{base.color.Green.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
           }
         }
       },
       "warning": {
         "lighter-40": {
-          "value": "{base.color.Orange.900}",
+          "value": "{base.color.Orange.1400}",
           "type": "color"
         },
         "lighter-30": {
-          "value": "{base.color.Orange.800}",
+          "value": "{base.color.Orange.1300}",
           "type": "color"
         },
         "lighter-20": {
-          "value": "{base.color.Orange.700}",
+          "value": "{base.color.Orange.1200}",
           "type": "color"
         },
         "lighter-10": {
-          "value": "{base.color.Orange.600}",
+          "value": "{base.color.Orange.1100}",
           "type": "color"
         },
         "default": {
-          "value": "{base.color.Orange.400}",
+          "value": "{base.color.Orange.900}",
           "type": "color"
         },
         "darker-10": {
-          "value": "{base.color.Orange.300}",
+          "value": "{base.color.Orange.800}",
           "type": "color"
         },
         "darker-20": {
-          "value": "{base.color.Orange.200}",
+          "value": "{base.color.Orange.700}",
           "type": "color"
         },
         "darker-30": {
-          "value": "{base.color.Orange.100}",
+          "value": "{base.color.Orange.600}",
           "type": "color"
         },
         "lighter-50": {
-          "value": "{base.color.Orange.950}",
+          "value": "{base.color.Orange.2000}",
           "type": "color"
         },
         "darker-40": {
-          "value": "{base.color.Orange.100}",
+          "value": "{base.color.Orange.500}",
           "type": "color"
         },
         "darker-50": {
-          "value": "{base.color.Orange.50}",
+          "value": "{base.color.Orange.100}",
           "type": "color"
         },
         "fixed": {
           "lighter-50": {
-            "value": "{base.color.Orange.50}",
-            "type": "color"
+            "value": "{base.color.Orange.100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-40": {
-            "value": "{base.color.Orange.100}",
-            "type": "color"
+            "value": "{base.color.Orange.600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-50": {
-            "value": "{base.color.Orange.950}",
-            "type": "color"
+            "value": "{base.color.Orange.2000}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-30": {
-            "value": "{base.color.Orange.200}",
-            "type": "color"
+            "value": "{base.color.Orange.700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-20": {
-            "value": "{base.color.Orange.300}",
-            "type": "color"
+            "value": "{base.color.Orange.800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-10": {
-            "value": "{base.color.Orange.400}",
-            "type": "color"
+            "value": "{base.color.Orange.900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "default": {
-            "value": "{base.color.Orange.500}",
-            "type": "color"
+            "value": "{base.color.Orange.1000}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-10": {
-            "value": "{base.color.Orange.600}",
-            "type": "color"
+            "value": "{base.color.Orange.1100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-20": {
-            "value": "{base.color.Orange.700}",
-            "type": "color"
+            "value": "{base.color.Orange.1200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-30": {
-            "value": "{base.color.Orange.800}",
-            "type": "color"
+            "value": "{base.color.Orange.1300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-40": {
-            "value": "{base.color.Orange.900}",
-            "type": "color"
+            "value": "{base.color.Orange.1900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-48": {
+            "value": "{base.color.Orange.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-46": {
+            "value": "{base.color.Orange.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-44": {
+            "value": "{base.color.Orange.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-42": {
+            "value": "{base.color.Orange.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-31": {
+            "value": "{base.color.Orange.1400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-32": {
+            "value": "{base.color.Orange.1500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-33": {
+            "value": "{base.color.Orange.1600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-34": {
+            "value": "{base.color.Orange.1700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-35": {
+            "value": "{base.color.Orange.1800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          }
+        },
+        "lighter-48": {
+          "value": "{base.color.Orange.1900}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-46": {
+          "value": "{base.color.Orange.1800}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-44": {
+          "value": "{base.color.Orange.1700}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-42": {
+          "value": "{base.color.Orange.1600}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-31": {
+          "value": "{base.color.Orange.400}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-32": {
+          "value": "{base.color.Orange.300}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-33": {
+          "value": "{base.color.Orange.200}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-34": {
+          "value": "{base.color.Orange.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-35": {
+          "value": "{base.color.Orange.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
           }
         }
       },
       "info": {
         "lighter-40": {
-          "value": "{base.color.Blue.900}",
+          "value": "{base.color.Blue.1400}",
           "type": "color"
         },
         "lighter-30": {
-          "value": "{base.color.Blue.800}",
+          "value": "{base.color.Blue.1300}",
           "type": "color"
         },
         "lighter-20": {
-          "value": "{base.color.Blue.700}",
+          "value": "{base.color.Blue.1200}",
           "type": "color"
         },
         "lighter-10": {
-          "value": "{base.color.Blue.600}",
+          "value": "{base.color.Blue.1100}",
           "type": "color"
         },
         "default": {
-          "value": "{base.color.Blue.400}",
+          "value": "{base.color.Blue.900}",
           "type": "color"
         },
         "darker-10": {
-          "value": "{base.color.Blue.300}",
+          "value": "{base.color.Blue.800}",
           "type": "color"
         },
         "darker-20": {
-          "value": "{base.color.Blue.200}",
+          "value": "{base.color.Blue.700}",
           "type": "color"
         },
         "darker-30": {
-          "value": "{base.color.Blue.100}",
+          "value": "{base.color.Blue.600}",
           "type": "color"
         },
         "lighter-50": {
-          "value": "{base.color.Blue.950}",
+          "value": "{base.color.Blue.2000}",
           "type": "color"
         },
         "darker-40": {
-          "value": "{base.color.Blue.100}",
+          "value": "{base.color.Blue.500}",
           "type": "color"
         },
         "darker-50": {
-          "value": "{base.color.Blue.50}",
+          "value": "{base.color.Blue.100}",
           "type": "color"
         },
         "fixed": {
           "lighter-50": {
-            "value": "{base.color.Blue.50}",
-            "type": "color"
+            "value": "{base.color.Blue.100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-40": {
-            "value": "{base.color.Blue.100}",
-            "type": "color"
+            "value": "{base.color.Blue.600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-50": {
-            "value": "{base.color.Blue.950}",
-            "type": "color"
+            "value": "{base.color.Blue.2000}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-30": {
-            "value": "{base.color.Blue.200}",
-            "type": "color"
+            "value": "{base.color.Blue.700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-20": {
-            "value": "{base.color.Blue.300}",
-            "type": "color"
+            "value": "{base.color.Blue.800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-10": {
-            "value": "{base.color.Blue.400}",
-            "type": "color"
+            "value": "{base.color.Blue.900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "default": {
-            "value": "{base.color.Blue.500}",
-            "type": "color"
+            "value": "{base.color.Blue.1000}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-10": {
-            "value": "{base.color.Blue.600}",
-            "type": "color"
+            "value": "{base.color.Blue.1100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-20": {
-            "value": "{base.color.Blue.700}",
-            "type": "color"
+            "value": "{base.color.Blue.1200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-30": {
-            "value": "{base.color.Blue.800}",
-            "type": "color"
+            "value": "{base.color.Blue.1300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-40": {
-            "value": "{base.color.Blue.900}",
-            "type": "color"
+            "value": "{base.color.Blue.1900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-48": {
+            "value": "{base.color.Blue.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-46": {
+            "value": "{base.color.Blue.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-44": {
+            "value": "{base.color.Blue.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-42": {
+            "value": "{base.color.Blue.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-31": {
+            "value": "{base.color.Blue.1400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-32": {
+            "value": "{base.color.Blue.1500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-33": {
+            "value": "{base.color.Blue.1600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-34": {
+            "value": "{base.color.Blue.1700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-35": {
+            "value": "{base.color.Blue.1800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          }
+        },
+        "lighter-48": {
+          "value": "{base.color.Blue.1900}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-46": {
+          "value": "{base.color.Blue.1800}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-44": {
+          "value": "{base.color.Blue.1700}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-42": {
+          "value": "{base.color.Blue.1600}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-31": {
+          "value": "{base.color.Blue.400}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-32": {
+          "value": "{base.color.Blue.300}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-33": {
+          "value": "{base.color.Blue.200}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-34": {
+          "value": "{base.color.Blue.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-35": {
+          "value": "{base.color.Blue.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
           }
         }
       },
@@ -1047,153 +2578,2313 @@
         "dark-cool": {
           "50": {
             "value": "{base.color.Opacity.Light.50}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "100": {
             "value": "{base.color.Opacity.Light.100}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "150": {
             "value": "{base.color.Opacity.Light.150}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "200": {
             "value": "{base.color.Opacity.Light.200}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "250": {
             "value": "{base.color.Opacity.Light.250}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "300": {
             "value": "{base.color.Opacity.Light.300}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "400": {
             "value": "{base.color.Opacity.Light.400}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "500": {
             "value": "{base.color.Opacity.Light.500}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "600": {
             "value": "{base.color.Opacity.Light.600}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "700": {
             "value": "{base.color.Opacity.Light.700}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "800": {
             "value": "{base.color.Opacity.Light.800}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "900": {
             "value": "{base.color.Opacity.Light.900}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "950": {
             "value": "{base.color.Opacity.Light.950}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "variant": {
             "default": {
               "value": "{base.color.Opacity.DarkCool.700}",
-              "type": "color"
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            }
+          }
+        },
+        "error": {
+          "50": {
+            "value": "{base.color.Opacity.Light.50}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "100": {
+            "value": "{base.color.Opacity.Light.100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "200": {
+            "value": "{base.color.Opacity.Light.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "300": {
+            "value": "{base.color.Opacity.Light.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "400": {
+            "value": "{base.color.Opacity.Light.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "500": {
+            "value": "{base.color.Opacity.Light.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "600": {
+            "value": "{base.color.Opacity.Light.600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "700": {
+            "value": "{base.color.Opacity.Light.700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "800": {
+            "value": "{base.color.Opacity.Light.800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "900": {
+            "value": "{base.color.Opacity.Light.900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "1000": {
+            "value": "{base.color.light}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "fixed": {
+            "50": {
+              "value": "{base.color.Opacity.Red.5}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "100": {
+              "value": "{base.color.Opacity.Red.10}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "200": {
+              "value": "{base.color.Opacity.Red.30}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "300": {
+              "value": "{base.color.Opacity.Red.40}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "400": {
+              "value": "{base.color.Opacity.Red.50}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "500": {
+              "value": "{base.color.Opacity.Red.60}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "600": {
+              "value": "{base.color.Opacity.Red.70}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "700": {
+              "value": "{base.color.Opacity.Red.80}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "800": {
+              "value": "{base.color.Opacity.Red.90}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "900": {
+              "value": "{base.color.Opacity.Red.90}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "1000": {
+              "value": "{base.color.Opacity.Red.100}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            }
+          }
+        },
+        "info": {
+          "50": {
+            "value": "{base.color.Opacity.Light.50}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "100": {
+            "value": "{base.color.Opacity.Light.100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "200": {
+            "value": "{base.color.Opacity.Light.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "300": {
+            "value": "{base.color.Opacity.Light.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "400": {
+            "value": "{base.color.Opacity.Light.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "500": {
+            "value": "{base.color.Opacity.Light.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "600": {
+            "value": "{base.color.Opacity.Light.600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "700": {
+            "value": "{base.color.Opacity.Light.700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "800": {
+            "value": "{base.color.Opacity.Light.800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "900": {
+            "value": "{base.color.Opacity.Light.900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "1000": {
+            "value": "{base.color.light}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "fixed": {
+            "50": {
+              "value": "{base.color.Opacity.Blue.5}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "100": {
+              "value": "{base.color.Opacity.Blue.10}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "200": {
+              "value": "{base.color.Opacity.Blue.20}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "300": {
+              "value": "{base.color.Opacity.Blue.30}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "400": {
+              "value": "{base.color.Opacity.Blue.40}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "500": {
+              "value": "{base.color.Opacity.Blue.50}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "600": {
+              "value": "{base.color.Opacity.Blue.60}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "700": {
+              "value": "{base.color.Opacity.Blue.70}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "800": {
+              "value": "{base.color.Opacity.Blue.80}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "900": {
+              "value": "{base.color.Opacity.Blue.90}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "1000": {
+              "value": "{base.color.Opacity.Blue.100}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            }
+          }
+        },
+        "warning": {
+          "50": {
+            "value": "{base.color.Opacity.Light.50}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "100": {
+            "value": "{base.color.Opacity.Light.100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "200": {
+            "value": "{base.color.Opacity.Light.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "300": {
+            "value": "{base.color.Opacity.Light.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "400": {
+            "value": "{base.color.Opacity.Light.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "500": {
+            "value": "{base.color.Opacity.Light.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "600": {
+            "value": "{base.color.Opacity.Light.600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "700": {
+            "value": "{base.color.Opacity.Light.700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "800": {
+            "value": "{base.color.Opacity.Light.800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "900": {
+            "value": "{base.color.Opacity.Light.900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "1000": {
+            "value": "{base.color.light}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "fixed": {
+            "50": {
+              "value": "{base.color.Opacity.Orange.5}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "100": {
+              "value": "{base.color.Opacity.Orange.10}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "200": {
+              "value": "{base.color.Opacity.Orange.20}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "300": {
+              "value": "{base.color.Opacity.Orange.30}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "400": {
+              "value": "{base.color.Opacity.Orange.40}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "500": {
+              "value": "{base.color.Opacity.Orange.50}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "600": {
+              "value": "{base.color.Opacity.Orange.60}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "700": {
+              "value": "{base.color.Opacity.Orange.70}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "800": {
+              "value": "{base.color.Opacity.Orange.80}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "900": {
+              "value": "{base.color.Opacity.Orange.90}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "1000": {
+              "value": "{base.color.Opacity.Orange.100}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            }
+          }
+        },
+        "success": {
+          "50": {
+            "value": "{base.color.Opacity.Light.50}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "100": {
+            "value": "{base.color.Opacity.Light.100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "200": {
+            "value": "{base.color.Opacity.Light.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "300": {
+            "value": "{base.color.Opacity.Light.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "400": {
+            "value": "{base.color.Opacity.Light.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "500": {
+            "value": "{base.color.Opacity.Light.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "600": {
+            "value": "{base.color.Opacity.Light.600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "700": {
+            "value": "{base.color.Opacity.Light.700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "800": {
+            "value": "{base.color.Opacity.Light.800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "900": {
+            "value": "{base.color.Opacity.Light.900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "1000": {
+            "value": "{base.color.light}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "fixed": {
+            "50": {
+              "value": "{base.color.Opacity.Green.5}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "100": {
+              "value": "{base.color.Opacity.Green.10}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "200": {
+              "value": "{base.color.Opacity.Green.20}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "300": {
+              "value": "{base.color.Opacity.Green.30}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "400": {
+              "value": "{base.color.Opacity.Green.40}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "500": {
+              "value": "{base.color.Opacity.Green.50}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "600": {
+              "value": "{base.color.Opacity.Green.60}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "700": {
+              "value": "{base.color.Opacity.Green.70}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "800": {
+              "value": "{base.color.Opacity.Green.80}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "900": {
+              "value": "{base.color.Opacity.Green.90}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "1000": {
+              "value": "{base.color.Opacity.Green.100}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            }
+          }
+        },
+        "cool-2": {
+          "50": {
+            "value": "{base.color.Opacity.Light.50}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "100": {
+            "value": "{base.color.Opacity.Light.100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "200": {
+            "value": "{base.color.Opacity.Light.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "300": {
+            "value": "{base.color.Opacity.Light.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "400": {
+            "value": "{base.color.Opacity.Light.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "500": {
+            "value": "{base.color.Opacity.Light.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "600": {
+            "value": "{base.color.Opacity.Light.600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "700": {
+            "value": "{base.color.Opacity.Light.700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "800": {
+            "value": "{base.color.Opacity.Light.800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "900": {
+            "value": "{base.color.Opacity.Light.900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "1000": {
+            "value": "{base.color.light}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "fixed": {
+            "50": {
+              "value": "{base.color.Opacity.Slate.5}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "100": {
+              "value": "{base.color.Opacity.Slate.10}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "200": {
+              "value": "{base.color.Opacity.Slate.20}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "300": {
+              "value": "{base.color.Opacity.Slate.30}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "400": {
+              "value": "{base.color.Opacity.Slate.40}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "500": {
+              "value": "{base.color.Opacity.Slate.50}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "600": {
+              "value": "{base.color.Opacity.Slate.60}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "700": {
+              "value": "{base.color.Opacity.Slate.70}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "800": {
+              "value": "{base.color.Opacity.Slate.80}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "900": {
+              "value": "{base.color.Opacity.Slate.90}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "1000": {
+              "value": "{base.color.Opacity.Slate.100}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            }
+          }
+        },
+        "primary": {
+          "50": {
+            "value": "{base.color.Opacity.Light.50}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "100": {
+            "value": "{base.color.Opacity.Light.100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "200": {
+            "value": "{base.color.Opacity.Light.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "300": {
+            "value": "{base.color.Opacity.Light.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "400": {
+            "value": "{base.color.Opacity.Light.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "500": {
+            "value": "{base.color.Opacity.Light.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "600": {
+            "value": "{base.color.Opacity.Light.600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "700": {
+            "value": "{base.color.Opacity.Light.700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "800": {
+            "value": "{base.color.Opacity.Light.800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "900": {
+            "value": "{base.color.Opacity.Light.900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "1000": {
+            "value": "{base.color.light}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "fixed": {
+            "50": {
+              "value": "{base.color.Opacity.Custom.5}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "100": {
+              "value": "{base.color.Opacity.Custom.10}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "200": {
+              "value": "{base.color.Opacity.Custom.20}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "300": {
+              "value": "{base.color.Opacity.Custom.30}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "400": {
+              "value": "{base.color.Opacity.Custom.40}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "500": {
+              "value": "{base.color.Opacity.Custom.50}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "600": {
+              "value": "{base.color.Opacity.Custom.60}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "700": {
+              "value": "{base.color.Opacity.Custom.70}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "800": {
+              "value": "{base.color.Opacity.Custom.80}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "900": {
+              "value": "{base.color.Opacity.Custom.90}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "1000": {
+              "value": "{base.color.Opacity.Custom.100}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            }
+          }
+        },
+        "highlight": {
+          "50": {
+            "value": "{base.color.Opacity.Light.50}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "100": {
+            "value": "{base.color.Opacity.Light.100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "200": {
+            "value": "{base.color.Opacity.Light.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "300": {
+            "value": "{base.color.Opacity.Light.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "400": {
+            "value": "{base.color.Opacity.Light.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "500": {
+            "value": "{base.color.Opacity.Light.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "600": {
+            "value": "{base.color.Opacity.Light.600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "700": {
+            "value": "{base.color.Opacity.Light.700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "800": {
+            "value": "{base.color.Opacity.Light.800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "900": {
+            "value": "{base.color.Opacity.Light.900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "1000": {
+            "value": "{base.color.light}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "fixed": {
+            "50": {
+              "value": "{base.color.Opacity.Cyan.5}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "100": {
+              "value": "{base.color.Opacity.Cyan.10}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "200": {
+              "value": "{base.color.Opacity.Cyan.20}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "300": {
+              "value": "{base.color.Opacity.Cyan.30}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "400": {
+              "value": "{base.color.Opacity.Cyan.40}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "500": {
+              "value": "{base.color.Opacity.Cyan.50}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "600": {
+              "value": "{base.color.Opacity.Cyan.60}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "700": {
+              "value": "{base.color.Opacity.Cyan.70}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "800": {
+              "value": "{base.color.Opacity.Cyan.80}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "900": {
+              "value": "{base.color.Opacity.Cyan.90}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "1000": {
+              "value": "{base.color.Opacity.Cyan.100}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            }
+          }
+        },
+        "secondary": {
+          "50": {
+            "value": "{base.color.Opacity.Light.50}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "100": {
+            "value": "{base.color.Opacity.Light.100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "200": {
+            "value": "{base.color.Opacity.Light.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "300": {
+            "value": "{base.color.Opacity.Light.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "400": {
+            "value": "{base.color.Opacity.Light.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "500": {
+            "value": "{base.color.Opacity.Light.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "600": {
+            "value": "{base.color.Opacity.Light.600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "700": {
+            "value": "{base.color.Opacity.Light.700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "800": {
+            "value": "{base.color.Opacity.Light.800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "900": {
+            "value": "{base.color.Opacity.Light.900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "1000": {
+            "value": "{base.color.light}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "fixed": {
+            "50": {
+              "value": "{base.color.Opacity.Slate.5}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "100": {
+              "value": "{base.color.Opacity.Slate.10}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "200": {
+              "value": "{base.color.Opacity.Slate.20}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "300": {
+              "value": "{base.color.Opacity.Slate.30}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "400": {
+              "value": "{base.color.Opacity.Slate.40}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "500": {
+              "value": "{base.color.Opacity.Slate.50}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "600": {
+              "value": "{base.color.Opacity.Slate.60}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "700": {
+              "value": "{base.color.Opacity.Slate.70}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "800": {
+              "value": "{base.color.Opacity.Slate.80}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "900": {
+              "value": "{base.color.Opacity.Slate.90}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "1000": {
+              "value": "{base.color.Opacity.Slate.100}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            }
+          }
+        },
+        "brand": {
+          "50": {
+            "value": "{base.color.Opacity.Light.50}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "100": {
+            "value": "{base.color.Opacity.Light.100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "200": {
+            "value": "{base.color.Opacity.Light.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "300": {
+            "value": "{base.color.Opacity.Light.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "400": {
+            "value": "{base.color.Opacity.Light.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "500": {
+            "value": "{base.color.Opacity.Light.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "600": {
+            "value": "{base.color.Opacity.Light.600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "700": {
+            "value": "{base.color.Opacity.Light.700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "800": {
+            "value": "{base.color.Opacity.Light.800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "900": {
+            "value": "{base.color.Opacity.Light.900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "1000": {
+            "value": "{base.color.light}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "fixed": {
+            "50": {
+              "value": "{base.color.Opacity.Custom.5}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "100": {
+              "value": "{base.color.Opacity.Custom.10}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "200": {
+              "value": "{base.color.Opacity.Custom.20}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "300": {
+              "value": "{base.color.Opacity.Custom.30}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "400": {
+              "value": "{base.color.Opacity.Custom.40}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "500": {
+              "value": "{base.color.Opacity.Custom.50}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "600": {
+              "value": "{base.color.Opacity.Custom.60}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "700": {
+              "value": "{base.color.Opacity.Custom.70}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "800": {
+              "value": "{base.color.Opacity.Custom.80}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "900": {
+              "value": "{base.color.Opacity.Custom.90}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
+            },
+            "1000": {
+              "value": "{base.color.Opacity.Custom.100}",
+              "type": "color",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "ALL_SCOPES"
+                ]
+              }
             }
           }
         }
       },
       "highlight": {
         "lighter-50": {
-          "value": "{base.color.Cyan.950}",
-          "type": "color"
+          "value": "{base.color.Cyan.2000}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
         },
         "lighter-40": {
-          "value": "{base.color.Cyan.900}",
-          "type": "color"
+          "value": "{base.color.Cyan.1400}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
         },
         "lighter-30": {
-          "value": "{base.color.Cyan.800}",
-          "type": "color"
+          "value": "{base.color.Cyan.1300}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
         },
         "lighter-20": {
-          "value": "{base.color.Cyan.700}",
-          "type": "color"
+          "value": "{base.color.Cyan.1200}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
         },
         "lighter-10": {
-          "value": "{base.color.Cyan.600}",
-          "type": "color"
+          "value": "{base.color.Cyan.1100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
         },
         "default": {
-          "value": "{base.color.Cyan.400}",
-          "type": "color"
+          "value": "{base.color.Cyan.900}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
         },
         "darker-10": {
-          "value": "{base.color.Cyan.300}",
-          "type": "color"
+          "value": "{base.color.Cyan.800}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
         },
         "darker-20": {
-          "value": "{base.color.Cyan.200}",
-          "type": "color"
+          "value": "{base.color.Cyan.700}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
         },
         "darker-30": {
-          "value": "{base.color.Cyan.100}",
-          "type": "color"
+          "value": "{base.color.Cyan.600}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
         },
         "darker-40": {
-          "value": "{base.color.Cyan.100}",
-          "type": "color"
+          "value": "{base.color.Cyan.500}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
         },
         "darker-50": {
-          "value": "{base.color.Cyan.50}",
-          "type": "color"
+          "value": "{base.color.Cyan.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
         },
         "fixed": {
           "lighter-50": {
-            "value": "{base.color.Cyan.50}",
-            "type": "color"
+            "value": "{base.color.Cyan.100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-40": {
-            "value": "{base.color.Cyan.100}",
-            "type": "color"
+            "value": "{base.color.Cyan.600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-30": {
-            "value": "{base.color.Cyan.200}",
-            "type": "color"
+            "value": "{base.color.Cyan.700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-20": {
-            "value": "{base.color.Cyan.300}",
-            "type": "color"
+            "value": "{base.color.Cyan.800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "lighter-10": {
-            "value": "{base.color.Cyan.400}",
-            "type": "color"
+            "value": "{base.color.Cyan.900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "default": {
-            "value": "{base.color.Cyan.500}",
-            "type": "color"
+            "value": "{base.color.Cyan.1000}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-10": {
-            "value": "{base.color.Cyan.600}",
-            "type": "color"
+            "value": "{base.color.Cyan.1100}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-20": {
-            "value": "{base.color.Cyan.700}",
-            "type": "color"
+            "value": "{base.color.Cyan.1200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-30": {
-            "value": "{base.color.Cyan.800}",
-            "type": "color"
+            "value": "{base.color.Cyan.1300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-40": {
-            "value": "{base.color.Cyan.900}",
-            "type": "color"
+            "value": "{base.color.Cyan.1900}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
           },
           "darker-50": {
-            "value": "{base.color.Cyan.950}",
-            "type": "color"
+            "value": "{base.color.Cyan.2000}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-48": {
+            "value": "{base.color.Cyan.200}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-46": {
+            "value": "{base.color.Cyan.300}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-44": {
+            "value": "{base.color.Cyan.400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "lighter-42": {
+            "value": "{base.color.Cyan.500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-31": {
+            "value": "{base.color.Cyan.1400}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-32": {
+            "value": "{base.color.Cyan.1500}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-33": {
+            "value": "{base.color.Cyan.1600}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-34": {
+            "value": "{base.color.Cyan.1700}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          },
+          "darker-35": {
+            "value": "{base.color.Cyan.1800}",
+            "type": "color",
+            "$extensions": {
+              "com.figma.scopes": [
+                "ALL_SCOPES"
+              ]
+            }
+          }
+        },
+        "lighter-48": {
+          "value": "{base.color.Cyan.1900}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-46": {
+          "value": "{base.color.Cyan.1800}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-44": {
+          "value": "{base.color.Cyan.1700}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "lighter-42": {
+          "value": "{base.color.Cyan.1600}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-31": {
+          "value": "{base.color.Cyan.400}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-32": {
+          "value": "{base.color.Cyan.300}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-33": {
+          "value": "{base.color.Cyan.200}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-34": {
+          "value": "{base.color.Cyan.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
+          }
+        },
+        "darker-35": {
+          "value": "{base.color.Cyan.100}",
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ]
           }
         }
       }
