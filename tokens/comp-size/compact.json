@@ -56,6 +56,16 @@
                   "padding-y": {
                     "value": "{smc.reference.container.padding.8}",
                     "type": "number"
+                  },
+                  "gap": {
+                    "value": "{smc.reference.container.gap.8}",
+                    "type": "number",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "GAP"
+                      ],
+                      "com.figma.hiddenFromPublishing": true
+                    }
                   }
                 }
               },
@@ -307,6 +317,26 @@
             "gap": {
               "value": "{smc.reference.container.gap.16}",
               "type": "number"
+            },
+            "icons-gap": {
+              "value": "{smc.reference.container.gap.8}",
+              "type": "number",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "GAP"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              }
+            },
+            "chip-input-gap": {
+              "value": "{smc.reference.container.gap.4}",
+              "type": "number",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "GAP"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              }
             }
           }
         },
@@ -323,6 +353,30 @@
             "gap": {
               "value": "{smc.reference.container.gap.16}",
               "type": "number"
+            }
+          }
+        },
+        "chip-grid": {
+          "size": {
+            "padding-x": {
+              "value": "{smc.reference.container.padding.none}",
+              "type": "number",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "GAP"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              }
+            },
+            "padding-y": {
+              "value": "{smc.reference.container.padding.8}",
+              "type": "number",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "GAP"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              }
             }
           }
         }
