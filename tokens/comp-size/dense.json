@@ -132,6 +132,16 @@
                       ],
                       "com.figma.hiddenFromPublishing": true
                     }
+                  },
+                  "padding-right": {
+                    "value": "{smc.reference.container.padding.32}",
+                    "type": "number",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "GAP"
+                      ],
+                      "com.figma.hiddenFromPublishing": true
+                    }
                   }
                 }
               },
