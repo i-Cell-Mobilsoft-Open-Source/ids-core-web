@@ -8753,6 +8753,120 @@
               }
             }
           }
+        },
+        "fieldset": {
+          "legend": {
+            "color": {
+              "fg": {
+                "text": {
+                  "light": {
+                    "default": {
+                      "value": "{smc.reference.forms.color.fg.text.light.default}",
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "TEXT_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
+                    },
+                    "hovered": {
+                      "value": "{smc.reference.forms.color.fg.text.light.hovered}",
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "TEXT_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
+                    },
+                    "focused": {
+                      "value": "{smc.reference.forms.color.fg.text.light.focused}",
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "TEXT_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
+                    },
+                    "pressed": {
+                      "value": "{smc.reference.forms.color.fg.text.light.pressed}",
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "TEXT_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
+                    },
+                    "disabled": {
+                      "value": "{smc.reference.forms.color.fg.text.light.disabled}",
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "TEXT_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
+                    }
+                  },
+                  "surface": {
+                    "default": {
+                      "value": "{smc.reference.forms.color.fg.text.surface.default}",
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "TEXT_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
+                    },
+                    "hover": {
+                      "value": "{smc.reference.forms.color.fg.text.surface.hovered}",
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "TEXT_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
+                    },
+                    "focused": {
+                      "value": "{smc.reference.forms.color.fg.text.surface.focused}",
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "TEXT_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
+                    },
+                    "pressed": {
+                      "value": "{smc.reference.forms.color.fg.text.surface.pressed}",
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "TEXT_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
+                    },
+                    "disabled": {
+                      "value": "{smc.reference.forms.color.fg.text.surface.disabled}",
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "TEXT_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     }
