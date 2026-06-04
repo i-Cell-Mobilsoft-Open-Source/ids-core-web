@@ -9,67 +9,157 @@
                 "surface": {
                   "default": {
                     "value": "{smc.reference.forms.color.bg.surface.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "hovered": {
                     "value": "{smc.reference.forms.color.bg.surface.hovered}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "focused": {
                     "value": "{smc.reference.forms.color.bg.surface.focused}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "pressed": {
                     "value": "{smc.reference.forms.color.bg.surface.pressed}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "disabled": {
                     "value": "{smc.reference.forms.color.bg.surface.disabled}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   }
                 },
                 "dark": {
                   "default": {
                     "value": "{smc.reference.forms.color.bg.surface.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "hovered": {
                     "value": "{smc.reference.forms.color.bg.surface.hovered}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "focused": {
                     "value": "{smc.reference.forms.color.bg.surface.focused}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "pressed": {
                     "value": "{smc.reference.forms.color.bg.surface.pressed}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "disabled": {
                     "value": "{smc.reference.forms.color.bg.surface.disabled}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   }
                 },
                 "light": {
                   "default": {
                     "value": "{smc.reference.forms.color.bg.surface.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "hovered": {
                     "value": "{smc.reference.forms.color.bg.surface.hovered}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "focused": {
                     "value": "{smc.reference.forms.color.bg.surface.focused}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "pressed": {
                     "value": "{smc.reference.forms.color.bg.surface.pressed}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "disabled": {
                     "value": "{smc.reference.forms.color.bg.surface.disabled}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   }
                 }
               },
@@ -77,120 +167,282 @@
                 "surface": {
                   "default": {
                     "value": "{smc.reference.forms.color.border.surface.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "hovered": {
                     "value": "{smc.reference.forms.color.border.surface.hovered}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "focused": {
                     "value": "{smc.reference.forms.color.border.surface.focused}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "pressed": {
                     "value": "{smc.reference.forms.color.border.surface.pressed}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "disabled": {
                     "value": "{smc.reference.forms.color.border.surface.disabled}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "error": {
                     "default": {
                       "value": "{smc.reference.forms.color.border.surface.error.default}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "hovered": {
                       "value": "{smc.reference.forms.color.border.surface.error.hovered}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "focused": {
                       "value": "{smc.reference.forms.color.border.surface.error.focused}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "pressed": {
                       "value": "{smc.reference.forms.color.border.surface.error.pressed}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     }
                   }
                 },
                 "light": {
                   "default": {
                     "value": "{smc.reference.forms.color.border.light.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "hovered": {
                     "value": "{smc.reference.forms.color.border.light.hovered}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "focused": {
                     "value": "{smc.reference.forms.color.border.light.focused}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "pressed": {
                     "value": "{smc.reference.forms.color.border.light.pressed}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "disabled": {
                     "value": "{smc.reference.forms.color.border.light.disabled}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "error": {
                     "default": {
                       "value": "{smc.reference.forms.color.border.light.error.default}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "hovered": {
                       "value": "{smc.reference.forms.color.border.light.error.hovered}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "focused": {
                       "value": "{smc.reference.forms.color.border.light.error.focused}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "pressed": {
                       "value": "{smc.reference.forms.color.border.light.error.pressed}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     }
                   }
                 },
                 "dark": {
                   "default": {
                     "value": "{smc.reference.forms.color.border.dark.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "hovered": {
                     "value": "{smc.reference.forms.color.border.dark.hovered}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "focused": {
                     "value": "{smc.reference.forms.color.border.dark.focused}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "pressed": {
                     "value": "{smc.reference.forms.color.border.dark.pressed}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "disabled": {
                     "value": "{smc.reference.forms.color.border.dark.disabled}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "error": {
                     "default": {
                       "value": "{smc.reference.forms.color.border.dark.error.default}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "hovered": {
                       "value": "{smc.reference.forms.color.border.dark.error.hovered}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "focused": {
                       "value": "{smc.reference.forms.color.border.dark.error.focused}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "pressed": {
                       "value": "{smc.reference.forms.color.border.dark.error.pressed}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     }
                   }
                 }
@@ -199,19 +451,37 @@
                 "dark": {
                   "focused": {
                     "value": "{smc.reference.container.focused-outline.color.dark.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "ALL_SCOPES"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   }
                 },
                 "light": {
                   "focused": {
                     "value": "{smc.reference.container.focused-outline.color.light.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "ALL_SCOPES"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   }
                 },
                 "surface": {
                   "focused": {
                     "value": "{smc.reference.container.focused-outline.color.dark.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "ALL_SCOPES"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   }
                 }
               }
@@ -223,67 +493,157 @@
                 "dark": {
                   "default": {
                     "value": "{smc.reference.forms.color.bg.surface.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "hovered": {
                     "value": "{smc.reference.forms.color.bg.surface.hovered}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "focused": {
                     "value": "{smc.reference.forms.color.bg.surface.focused}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "pressed": {
                     "value": "{smc.reference.forms.color.bg.surface.pressed}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "disabled": {
                     "value": "{smc.reference.forms.color.bg.surface.disabled}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   }
                 },
                 "light": {
                   "default": {
                     "value": "{smc.reference.forms.color.bg.surface.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "hovered": {
                     "value": "{smc.reference.forms.color.bg.surface.hovered}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "focused": {
                     "value": "{smc.reference.forms.color.bg.surface.focused}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "pressed": {
                     "value": "{smc.reference.forms.color.bg.surface.pressed}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "disabled": {
                     "value": "{smc.reference.forms.color.bg.surface.disabled}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   }
                 },
                 "surface": {
                   "default": {
                     "value": "{smc.reference.forms.color.bg.surface.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "hovered": {
                     "value": "{smc.reference.forms.color.bg.surface.hovered}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "focused": {
                     "value": "{smc.reference.forms.color.bg.surface.focused}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "pressed": {
                     "value": "{smc.reference.forms.color.bg.surface.pressed}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "disabled": {
                     "value": "{smc.reference.forms.color.bg.surface.disabled}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "FRAME_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   }
                 }
               },
@@ -291,120 +651,282 @@
                 "surface": {
                   "default": {
                     "value": "{smc.reference.forms.color.border.primary.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "hovered": {
                     "value": "{smc.reference.forms.color.border.primary.hovered}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "focused": {
                     "value": "{smc.reference.forms.color.border.primary.focused}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "pressed": {
                     "value": "{smc.reference.forms.color.border.primary.pressed}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "disabled": {
                     "value": "{smc.reference.forms.color.border.primary.disabled}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "error": {
                     "default": {
                       "value": "{smc.reference.forms.color.border.surface.error.default}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "hovered": {
                       "value": "{smc.reference.forms.color.border.surface.error.hovered}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "focused": {
                       "value": "{smc.reference.forms.color.border.surface.error.focused}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "pressed": {
                       "value": "{smc.reference.forms.color.border.surface.error.pressed}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     }
                   }
                 },
                 "light": {
                   "default": {
                     "value": "{smc.reference.container.color.border.light.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "hovered": {
                     "value": "{smc.reference.container.color.border.light.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "focused": {
                     "value": "{smc.reference.container.color.border.light.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "pressed": {
                     "value": "{smc.reference.container.color.border.light.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "disabled": {
                     "value": "{smc.reference.container.color.border.disabled.transparent.light.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "error": {
                     "default": {
                       "value": "{smc.reference.forms.color.border.light.error.default}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "hovered": {
                       "value": "{smc.reference.forms.color.border.light.error.hovered}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "focused": {
                       "value": "{smc.reference.forms.color.border.light.error.focused}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "pressed": {
                       "value": "{smc.reference.forms.color.border.light.error.pressed}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     }
                   }
                 },
                 "dark": {
                   "default": {
                     "value": "{smc.reference.forms.color.border.dark.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "hovered": {
                     "value": "{smc.reference.forms.color.border.dark.hovered}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "focused": {
                     "value": "{smc.reference.forms.color.border.dark.focused}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "pressed": {
                     "value": "{smc.reference.forms.color.border.dark.pressed}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "disabled": {
                     "value": "{smc.reference.forms.color.border.dark.disabled}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "STROKE_COLOR"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   },
                   "error": {
                     "default": {
                       "value": "{smc.reference.forms.color.border.dark.error.default}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "hovered": {
                       "value": "{smc.reference.forms.color.border.dark.error.hovered}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "focused": {
                       "value": "{smc.reference.forms.color.border.dark.error.focused}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "pressed": {
                       "value": "{smc.reference.forms.color.border.dark.error.pressed}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     }
                   }
                 }
@@ -413,19 +935,37 @@
                 "dark": {
                   "focused": {
                     "value": "{smc.reference.container.focused-outline.color.dark.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "ALL_SCOPES"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   }
                 },
                 "light": {
                   "focused": {
                     "value": "{smc.reference.container.focused-outline.color.light.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "ALL_SCOPES"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   }
                 },
                 "surface": {
                   "focused": {
                     "value": "{smc.reference.container.focused-outline.color.dark.default}",
-                    "type": "color"
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "ALL_SCOPES"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
                   }
                 }
               }
@@ -436,120 +976,282 @@
                   "surface": {
                     "default": {
                       "value": "{smc.reference.forms.color.bg.primary.default}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "FRAME_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "hovered": {
                       "value": "{smc.reference.forms.color.bg.primary.hovered}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "FRAME_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "focused": {
                       "value": "{smc.reference.forms.color.bg.primary.focused}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "FRAME_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "pressed": {
                       "value": "{smc.reference.forms.color.bg.primary.pressed}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "FRAME_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "disabled": {
                       "value": "{smc.reference.forms.color.bg.primary.disabled}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "FRAME_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "error": {
                       "default": {
                         "value": "{smc.reference.forms.color.border.surface.error.default}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "FRAME_FILL"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "hovered": {
                         "value": "{smc.reference.forms.color.border.surface.error.hovered}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "FRAME_FILL"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "focused": {
                         "value": "{smc.reference.forms.color.border.surface.error.focused}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "FRAME_FILL"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "pressed": {
                         "value": "{smc.reference.forms.color.border.surface.error.pressed}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "FRAME_FILL"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       }
                     }
                   },
                   "light": {
                     "default": {
                       "value": "{smc.reference.forms.color.bg.light.default}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "FRAME_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "hovered": {
                       "value": "{smc.reference.forms.color.bg.light.hovered}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "FRAME_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "focused": {
                       "value": "{smc.reference.forms.color.bg.light.focused}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "FRAME_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "pressed": {
                       "value": "{smc.reference.forms.color.bg.light.pressed}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "FRAME_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "disabled": {
                       "value": "{smc.reference.forms.color.bg.light.disabled}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "FRAME_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "error": {
                       "default": {
                         "value": "{smc.reference.forms.color.border.light.error.default}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "FRAME_FILL"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "hovered": {
                         "value": "{smc.reference.forms.color.border.light.error.hovered}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "FRAME_FILL"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "focused": {
                         "value": "{smc.reference.forms.color.border.light.error.focused}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "FRAME_FILL"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "pressed": {
                         "value": "{smc.reference.forms.color.border.light.error.pressed}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "FRAME_FILL"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       }
                     }
                   },
                   "dark": {
                     "default": {
                       "value": "{smc.reference.forms.color.bg.dark.default}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "FRAME_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "hovered": {
                       "value": "{smc.reference.forms.color.bg.dark.hovered}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "FRAME_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "focused": {
                       "value": "{smc.reference.forms.color.bg.dark.focused}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "FRAME_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "pressed": {
                       "value": "{smc.reference.forms.color.bg.dark.pressed}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "FRAME_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "disabled": {
                       "value": "{smc.reference.forms.color.bg.dark.disabled}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "FRAME_FILL"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "error": {
                       "default": {
                         "value": "{smc.reference.forms.color.border.dark.error.default}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "FRAME_FILL"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "hovered": {
                         "value": "{smc.reference.forms.color.border.dark.error.hovered}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "FRAME_FILL"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "focused": {
                         "value": "{smc.reference.forms.color.border.dark.error.focused}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "FRAME_FILL"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "pressed": {
                         "value": "{smc.reference.forms.color.border.dark.error.pressed}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "FRAME_FILL"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       }
                     }
                   }
@@ -558,120 +1260,282 @@
                   "surface": {
                     "default": {
                       "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "hovered": {
                       "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "focused": {
                       "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "pressed": {
                       "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "disabled": {
                       "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "error": {
                       "default": {
                         "value": "{smc.reference.forms.color.border.surface.error.default}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "STROKE_COLOR"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "hovered": {
                         "value": "{smc.reference.forms.color.border.surface.error.hovered}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "STROKE_COLOR"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "focused": {
                         "value": "{smc.reference.forms.color.border.surface.error.focused}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "STROKE_COLOR"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "pressed": {
                         "value": "{smc.reference.forms.color.border.surface.error.pressed}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "STROKE_COLOR"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       }
                     }
                   },
                   "light": {
                     "default": {
                       "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "hovered": {
                       "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "focused": {
                       "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "pressed": {
                       "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "disabled": {
                       "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "error": {
                       "default": {
                         "value": "{smc.reference.forms.color.border.light.error.default}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "STROKE_COLOR"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "hovered": {
                         "value": "{smc.reference.forms.color.border.light.error.hovered}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "STROKE_COLOR"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "focused": {
                         "value": "{smc.reference.forms.color.border.light.error.focused}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "STROKE_COLOR"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "pressed": {
                         "value": "{smc.reference.forms.color.border.light.error.pressed}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "STROKE_COLOR"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       }
                     }
                   },
                   "dark": {
                     "default": {
                       "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "hovered": {
                       "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "focused": {
                       "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "pressed": {
                       "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "disabled": {
                       "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                      "type": "color"
+                      "type": "color",
+                      "$extensions": {
+                        "com.figma.scopes": [
+                          "STROKE_COLOR"
+                        ],
+                        "com.figma.hiddenFromPublishing": false
+                      }
                     },
                     "error": {
                       "default": {
                         "value": "{smc.reference.forms.color.border.dark.error.default}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "STROKE_COLOR"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "hovered": {
                         "value": "{smc.reference.forms.color.border.dark.error.hovered}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "STROKE_COLOR"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "focused": {
                         "value": "{smc.reference.forms.color.border.dark.error.focused}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "STROKE_COLOR"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       },
                       "pressed": {
                         "value": "{smc.reference.forms.color.border.dark.error.pressed}",
-                        "type": "color"
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "STROKE_COLOR"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
                       }
                     }
                   }
@@ -686,67 +1550,157 @@
               "surface": {
                 "default": {
                   "value": "{smc.reference.forms.color.fg.text.surface.default}",
-                  "type": "color"
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
                 },
                 "hovered": {
                   "value": "{smc.reference.forms.color.fg.text.surface.hovered}",
-                  "type": "color"
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
                 },
                 "focused": {
                   "value": "{smc.reference.forms.color.fg.text.surface.focused}",
-                  "type": "color"
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
                 },
                 "pressed": {
                   "value": "{smc.reference.forms.color.fg.text.surface.pressed}",
-                  "type": "color"
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
                 },
                 "disabled": {
                   "value": "{smc.reference.forms.color.fg.text.surface.disabled}",
-                  "type": "color"
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
                 }
               },
               "light": {
                 "default": {
                   "value": "{smc.reference.forms.color.fg.text.light.default}",
-                  "type": "color"
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
                 },
                 "hovered": {
                   "value": "{smc.reference.forms.color.fg.text.light.hovered}",
-                  "type": "color"
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
                 },
                 "focused": {
                   "value": "{smc.reference.forms.color.fg.text.light.focused}",
-                  "type": "color"
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
                 },
                 "pressed": {
                   "value": "{smc.reference.forms.color.fg.text.light.pressed}",
-                  "type": "color"
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
                 },
                 "disabled": {
-                  "value": "{smc.reference.forms.color.fg.text.light.disabled}",
-                  "type": "color"
+                  "value": "{smc.reference.container.color.fg.disabled.default}",
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
                 }
               },
               "dark": {
                 "default": {
                   "value": "{smc.reference.forms.color.fg.text.dark.default}",
-                  "type": "color"
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
                 },
                 "hovered": {
                   "value": "{smc.reference.forms.color.fg.text.dark.hovered}",
-                  "type": "color"
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
                 },
                 "focused": {
                   "value": "{smc.reference.forms.color.fg.text.dark.focused}",
-                  "type": "color"
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
                 },
                 "pressed": {
                   "value": "{smc.reference.forms.color.fg.text.dark.pressed}",
-                  "type": "color"
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
                 },
                 "disabled": {
-                  "value": "{smc.reference.forms.color.fg.text.dark.disabled}",
-                  "type": "color"
+                  "value": "{smc.reference.container.color.fg.disabled.default}",
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
                 }
               }
             }
@@ -757,11 +1711,267 @@
             "fg": {
               "default": {
                 "value": "{smc.reference.forms.asterisk.color.fg.default}",
-                "type": "color"
+                "type": "color",
+                "$extensions": {
+                  "com.figma.scopes": [
+                    "TEXT_FILL"
+                  ],
+                  "com.figma.hiddenFromPublishing": false
+                }
               },
               "disabled": {
                 "value": "{smc.reference.forms.asterisk.color.fg.disabled}",
-                "type": "color"
+                "type": "color",
+                "$extensions": {
+                  "com.figma.scopes": [
+                    "TEXT_FILL"
+                  ],
+                  "com.figma.hiddenFromPublishing": false
+                }
+              }
+            }
+          }
+        },
+        "group": {
+          "legend": {
+            "color": {
+              "fg": {
+                "surface": {
+                  "default": {
+                    "value": "{smc.reference.forms.color.fg.text.surface.default}",
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "TEXT_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
+                  },
+                  "disabled": {
+                    "value": "{smc.reference.forms.color.fg.text.surface.disabled}",
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "TEXT_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
+                  }
+                },
+                "light": {
+                  "default": {
+                    "value": "{smc.reference.forms.color.fg.text.light.default}",
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "TEXT_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
+                  },
+                  "disabled": {
+                    "value": "{smc.reference.container.color.fg.disabled.default}",
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "TEXT_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
+                  }
+                },
+                "dark": {
+                  "default": {
+                    "value": "{smc.reference.forms.color.fg.text.dark.default}",
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "TEXT_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
+                  },
+                  "disabled": {
+                    "value": "{smc.reference.container.color.fg.disabled.default}",
+                    "type": "color",
+                    "$extensions": {
+                      "com.figma.scopes": [
+                        "TEXT_FILL"
+                      ],
+                      "com.figma.hiddenFromPublishing": false
+                    }
+                  }
+                }
+              }
+            },
+            "hint-message": {
+              "color": {
+                "fg": {
+                  "text": {
+                    "surface": {
+                      "default": {
+                        "value": "{smc.reference.container.color.fg.surface.darker-70}",
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "TEXT_FILL"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
+                      },
+                      "disabled": {
+                        "value": "{smc.reference.forms.color.fg.text.surface.disabled}",
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "TEXT_FILL"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
+                      }
+                    },
+                    "dark": {
+                      "default": {
+                        "value": "{smc.reference.forms.color.fg.text.dark.default}",
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "ALL_SCOPES"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
+                      },
+                      "disabled": {
+                        "value": "{smc.reference.container.color.fg.disabled.default}",
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "ALL_SCOPES"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
+                      }
+                    },
+                    "light": {
+                      "default": {
+                        "value": "{smc.reference.forms.color.fg.text.light.default}",
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "ALL_SCOPES"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
+                      },
+                      "disabled": {
+                        "value": "{smc.reference.container.color.fg.disabled.default}",
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "ALL_SCOPES"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
+                      }
+                    }
+                  },
+                  "icon": {
+                    "surface": {
+                      "default": {
+                        "value": "{smc.reference.container.color.fg.surface.darker-70}",
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "FRAME_FILL",
+                            "SHAPE_FILL"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
+                      },
+                      "disabled": {
+                        "value": "{smc.reference.forms.color.fg.text.surface.disabled}",
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "FRAME_FILL",
+                            "SHAPE_FILL"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
+                      }
+                    },
+                    "dark": {
+                      "default": {
+                        "value": "{smc.reference.forms.color.fg.icon.dark.default}",
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "ALL_SCOPES"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
+                      },
+                      "disabled": {
+                        "value": "{smc.reference.container.color.fg.disabled.default}",
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "ALL_SCOPES"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
+                      }
+                    },
+                    "light": {
+                      "default": {
+                        "value": "{smc.reference.forms.color.fg.icon.light.default}",
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "ALL_SCOPES"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
+                      },
+                      "disabled": {
+                        "value": "{smc.reference.container.color.fg.disabled.default}",
+                        "type": "color",
+                        "$extensions": {
+                          "com.figma.scopes": [
+                            "ALL_SCOPES"
+                          ],
+                          "com.figma.hiddenFromPublishing": false
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "asterix": {
+            "color": {
+              "fg": {
+                "default": {
+                  "value": "{smc.reference.container.color.fg.error.default}",
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
+                },
+                "disabled": {
+                  "value": "{smc.reference.container.color.fg.disabled.default}",
+                  "type": "color",
+                  "$extensions": {
+                    "com.figma.scopes": [
+                      "TEXT_FILL"
+                    ],
+                    "com.figma.hiddenFromPublishing": false
+                  }
+                }
               }
             }
           }
