@@ -7251,5 +7251,27 @@
     "$figmaModeId": "9755:3",
     "$figmaCollectionId": "VariableCollectionId:9755:947",
     "group": "smc-layout"
+  },
+  {
+    "id": "comp-color-component",
+    "name": "component",
+    "group": "comp-color",
+    "selectedTokenSets": {
+      "comp-color/component": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {
+      "comp.color.dialog.backdrop.background": "45f6e1ec9310240341212b6cb651e13961dcfe26",
+      "comp.color.dialog.container.color.bg.default": "f75c5e1076a4d5805b612241dbb11fa2a38858b9",
+      "comp.color.dialog.container.color.border.surface.default": "2a5ee82c8157128aca45ff0c2da86e89c880a335",
+      "comp.color.dialog.header.color.bg.default": "bcc82df296bf59dab5e8028944bca54e17486d62",
+      "comp.color.dialog.content.color.bg.default": "625728355aab21925aefed177e754b79a53aec8e",
+      "comp.color.dialog.content.color.border.surface.default": "b2a350b28af46ccdedc920398973c23f7eb28279",
+      "comp.color.dialog.footer.color.bg.default": "b2cac1b71f4de89280df0267c0284cf07546452f",
+      "comp.color.dialog.header.color.fg.title.default": "3674838f430f259a885c7483a373f95f4957e2f3",
+      "comp.color.dialog.header.color.fg.subtitle.default": "342bd5c2dc7b26c4bfaf5cacc7fcef64d8542aca"
+    },
+    "$figmaModeId": "2002:57",
+    "$figmaCollectionId": "VariableCollectionId:2002:26680"
   }
 ]
