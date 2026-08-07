@@ -334,7 +334,7 @@
                     }
                   },
                   "gap": {
-                    "value": "{smc.reference.container.gap.none}",
+                    "value": "{smc.reference.container.gap.4}",
                     "type": "number",
                     "$extensions": {
                       "com.figma.scopes": [
@@ -546,7 +546,7 @@
                     }
                   },
                   "gap": {
-                    "value": "{smc.reference.container.gap.none}",
+                    "value": "{smc.reference.container.gap.4}",
                     "type": "number",
                     "$extensions": {
                       "com.figma.scopes": [
