@@ -6,7 +6,7 @@
           "legend": {
             "typography": {
               "font-family": {
-                "value": "{smc.layout.fieldset.legend.typography.font-family}",
+                "value": "{smc.reference.forms.fieldset.legend.typography.font-family}",
                 "type": "text",
                 "$extensions": {
                   "com.figma.scopes": [
@@ -16,7 +16,7 @@
                 }
               },
               "font-size": {
-                "value": "{smc.layout.fieldset.legend.typography.font-size}",
+                "value": "{smc.reference.forms.fieldset.legend.typography.font-size.md}",
                 "type": "number",
                 "$extensions": {
                   "com.figma.scopes": [
@@ -26,7 +26,7 @@
                 }
               },
               "font-weight": {
-                "value": "{smc.layout.fieldset.legend.typography.font-weight}",
+                "value": "{smc.reference.forms.fieldset.legend.typography.font-weight}",
                 "type": "number",
                 "$extensions": {
                   "com.figma.scopes": [
@@ -36,7 +36,7 @@
                 }
               },
               "line-height": {
-                "value": "{smc.layout.fieldset.legend.typography.line-height}",
+                "value": "{smc.reference.forms.fieldset.legend.typography.line-height.md}",
                 "type": "number",
                 "$extensions": {
                   "com.figma.scopes": [
@@ -46,7 +46,7 @@
                 }
               },
               "letter-spacing": {
-                "value": "{smc.layout.fieldset.legend.typography.letter-spacing}",
+                "value": "{smc.reference.forms.fieldset.legend.typography.letter-spacing}",
                 "type": "number",
                 "$extensions": {
                   "com.figma.scopes": [
@@ -59,7 +59,7 @@
           },
           "size": {
             "padding-x": {
-              "value": "{smc.layout.fieldset.size.padding-x}",
+              "value": "{smc.reference.forms.fieldset.size.padding-x.md}",
               "type": "number",
               "$extensions": {
                 "com.figma.scopes": [
@@ -69,7 +69,7 @@
               }
             },
             "padding-y": {
-              "value": "{smc.layout.fieldset.size.padding-y}",
+              "value": "{smc.reference.forms.fieldset.size.padding-y.md}",
               "type": "number",
               "$extensions": {
                 "com.figma.scopes": [
@@ -79,7 +79,7 @@
               }
             },
             "gap": {
-              "value": "{smc.layout.fieldset.size.gap}",
+              "value": "{smc.reference.forms.fieldset.size.gap.md}",
               "type": "number",
               "$extensions": {
                 "com.figma.scopes": [
@@ -92,7 +92,7 @@
           "row": {
             "size": {
               "padding-x": {
-                "value": "{smc.layout.fieldset.row.size.padding-x}",
+                "value": "{smc.reference.forms.fieldset.row.size.padding-x.md}",
                 "type": "number",
                 "$extensions": {
                   "com.figma.scopes": [
@@ -102,7 +102,7 @@
                 }
               },
               "padding-y": {
-                "value": "{smc.layout.fieldset.row.size.padding-y}",
+                "value": "{smc.reference.forms.fieldset.row.size.padding-y.md}",
                 "type": "number",
                 "$extensions": {
                   "com.figma.scopes": [
@@ -112,7 +112,7 @@
                 }
               },
               "gap": {
-                "value": "{smc.layout.fieldset.row.size.gap}",
+                "value": "{smc.reference.forms.fieldset.row.size.gap.md}",
                 "type": "number",
                 "$extensions": {
                   "com.figma.scopes": [
