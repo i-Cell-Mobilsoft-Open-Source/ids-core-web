@@ -26,7 +26,7 @@
                 }
               },
               "font-weight": {
-                "value": "{smc.layout.fieldset.legend.typography.font-weight}",
+                "value": "{smc.reference.forms.fieldset.legend.typography.font-weight}",
                 "type": "number",
                 "$extensions": {
                   "com.figma.scopes": [
