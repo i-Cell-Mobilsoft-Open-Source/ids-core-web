@@ -6,61 +6,126 @@
           "typography": {
             "font-family": {
               "value": "{smc.reference.typography.font-family.default}",
-              "type": "text"
+              "type": "text",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FONT_FAMILY"
+                ]
+              }
             },
             "font-size": {
               "value": "{smc.reference.typography.font-size.18}",
-              "type": "number"
+              "type": "number",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FONT_SIZE"
+                ]
+              }
             },
             "line-height": {
               "value": "{smc.reference.typography.line-height.24}",
-              "type": "number"
+              "type": "number",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "LINE_HEIGHT"
+                ]
+              }
             },
             "font-weight": {
               "value": "{smc.reference.typography.font-weight.Regular}",
-              "type": "number"
+              "type": "fontWeights",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FONT_WEIGHT"
+                ]
+              }
             },
             "letter-spacing": {
               "value": "{smc.reference.typography.letter-spacing.default}",
-              "type": "number"
+              "type": "number",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "LETTER_SPACING"
+                ]
+              }
             }
           }
         },
         "size": {
           "padding-x": {
             "value": "{smc.reference.container.padding.24}",
-            "type": "number"
+            "type": "number",
+            "$extensions": {
+              "com.figma.scopes": [
+                "GAP"
+              ]
+            }
           },
           "padding-y": {
             "value": "{smc.reference.container.padding.16}",
-            "type": "number"
+            "type": "number",
+            "$extensions": {
+              "com.figma.scopes": [
+                "GAP"
+              ]
+            }
           },
           "border-radius": {
-            "value": "{smc.reference.container.border-radius.full}",
-            "type": "number"
+            "value": "{smc.reference.container.border-radius.md}",
+            "type": "number",
+            "$extensions": {
+              "com.figma.scopes": [
+                "CORNER_RADIUS"
+              ]
+            }
           },
           "icon": {
             "value": "{smc.reference.container.icon-nested.lg}",
-            "type": "number"
+            "type": "number",
+            "$extensions": {
+              "com.figma.scopes": [
+                "WIDTH_HEIGHT"
+              ]
+            }
           },
           "height": {
             "value": "{smc.reference.container.size.height.56}",
-            "type": "number"
+            "type": "number",
+            "$extensions": {
+              "com.figma.scopes": [
+                "WIDTH_HEIGHT"
+              ]
+            }
           },
           "gap": {
             "value": "{smc.reference.container.gap.8}",
-            "type": "number"
+            "type": "number",
+            "$extensions": {
+              "com.figma.scopes": [
+                "GAP"
+              ]
+            }
           },
           "border-width": {
             "value": "{smc.reference.container.border-width.sm}",
-            "type": "number"
+            "type": "number",
+            "$extensions": {
+              "com.figma.scopes": [
+                "STROKE_FLOAT"
+              ]
+            }
           }
         },
         "focused-outline": {
           "size": {
             "outline": {
               "value": "{smc.reference.container.focused-outline.size.default}",
-              "type": "number"
+              "type": "number",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "STROKE_FLOAT"
+                ]
+              }
             }
           }
         },
@@ -68,19 +133,39 @@
           "typography": {
             "font-family": {
               "value": "{smc.reference.typography.iconset.default}",
-              "type": "text"
+              "type": "text",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FONT_FAMILY"
+                ]
+              }
             },
             "font-size": {
               "value": "{smc.reference.typography.font-size.32}",
-              "type": "number"
+              "type": "number",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FONT_SIZE"
+                ]
+              }
             },
             "line-height": {
               "value": "{smc.reference.typography.line-height.32}",
-              "type": "number"
+              "type": "number",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "LINE_HEIGHT"
+                ]
+              }
             },
             "font-weight": {
               "value": "{smc.reference.typography.font-weight.Regular}",
-              "type": "number"
+              "type": "fontWeights",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FONT_WEIGHT"
+                ]
+              }
             }
           }
         },
@@ -88,19 +173,39 @@
           "size": {
             "padding-x": {
               "value": "{smc.reference.container.padding.none}",
-              "type": "number"
+              "type": "number",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "GAP"
+                ]
+              }
             },
             "padding-y": {
               "value": "{smc.reference.container.padding.none}",
-              "type": "number"
+              "type": "number",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "GAP"
+                ]
+              }
             },
             "column-gap": {
               "value": "{smc.reference.container.gap.16}",
-              "type": "number"
+              "type": "number",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "GAP"
+                ]
+              }
             },
             "row-gap": {
               "value": "{smc.reference.container.gap.16}",
-              "type": "number"
+              "type": "number",
+              "$extensions": {
+                "com.figma.scopes": [
+                  "GAP"
+                ]
+              }
             }
           }
         }

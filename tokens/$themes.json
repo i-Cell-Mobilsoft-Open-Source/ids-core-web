@@ -7251,5 +7251,39 @@
     "$figmaModeId": "9755:3",
     "$figmaCollectionId": "VariableCollectionId:9755:947",
     "group": "smc-layout"
+  },
+  {
+    "id": "comp-size-spacious",
+    "name": "spacious",
+    "group": "comp-size",
+    "selectedTokenSets": {
+      "comp-size/spacious": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {
+      "comp.size.tag.size.padding-x": "a317c94262ebb5b8d6ba19cada4c7b5be108fa74",
+      "comp.size.tag.size.padding-y": "94244103388308c4c6fab439d07968923f4be338",
+      "comp.size.tag.size.border-radius": "42985d9fdc48daac42554a2fd16c72c0db82a7dc",
+      "comp.size.tag.size.icon": "7f1589f5635c537876cef416d3f0452ccbf79570",
+      "comp.size.tag.size.height": "29e757f299e2d74600dff8d43887f1c9445436fd",
+      "comp.size.tag.size.gap": "85feec0c074d93a969a3264179c4e62040292150",
+      "comp.size.tag.size.border-width": "2ff39235d273be5502e58ed1487158ece3ad4ddf",
+      "comp.size.tag.label.typography.font-family": "bb54479f8820b6f62487be35a2c874298aef7640",
+      "comp.size.tag.label.typography.font-size": "9e1e680824c6589291f4598255de7e9452c1b383",
+      "comp.size.tag.label.typography.line-height": "fcade5bd26e1d6fad5217d16c777b395116de4b0",
+      "comp.size.tag.label.typography.font-weight": "76ca040ca4e1c5547d9c1f5a3f83e0e9cba4e6f3",
+      "comp.size.tag.label.typography.letter-spacing": "7b09a54685d9dc61dcf71a9f1757a69ff01ef560",
+      "comp.size.tag.focused-outline.size.outline": "8aad24d33d033aef98b1f7e5e70fd1625a613748",
+      "comp.size.tag.icon.typography.font-family": "3088de5b74ec2e67f9adfcf8b651d3c018e4f496",
+      "comp.size.tag.icon.typography.font-size": "b6e3fa91c7b3eaf4d142ae507a3d2c4d4546e4de",
+      "comp.size.tag.icon.typography.line-height": "be15136354874be2f56baa414b74aafcc87c4625",
+      "comp.size.tag.icon.typography.font-weight": "4ea3381cf0c37232cb7160f7c638d679893995f7",
+      "comp.size.tag.group.size.padding-x": "9000c4bd4808117b9930376fc69682c233cbc418",
+      "comp.size.tag.group.size.padding-y": "8a3403816fa29f53b6e0096b4a4095f1d4f1e2f3",
+      "comp.size.tag.group.size.column-gap": "4fa413aee47e3377370c8985a13226564bb537be",
+      "comp.size.tag.group.size.row-gap": "c54747e8203f6a1581c8a6c89583a2664d727782"
+    },
+    "$figmaModeId": "2002:60",
+    "$figmaCollectionId": "VariableCollectionId:2002:28942"
   }
 ]
